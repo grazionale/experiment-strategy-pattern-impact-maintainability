@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10153b05-40b6-4dcc-9bb3-66c502206a1f" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aspectj_aspectjrt_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aspectj_aspectjtools_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mysql_management_5_0_2_beta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jdmk_jmxtools_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_3_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="AbstractSalvarBuscarDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/strategyexperiment/dao/experiment/AbstractSalvarBuscarDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JAVA/com.mycompany.strategyexperiment" pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/com.mycompany.strategyexperiment">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>com.mycompany.strategyexperiment</OriginalElement>
+              <nodes>
+                <node x="842.0000000000001" y="228.5">com.mycompany.strategyexperiment.model.Orgao</node>
+                <node x="685.0000000000001" y="284.0">com.mycompany.strategyexperiment.model.Anexo</node>
+                <node x="362.0" y="1595.0">com.mycompany.strategyexperiment.dao.experiment.listar.ListarAnexo</node>
+                <node x="1403.0" y="1605.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarAnexo</node>
+                <node x="154.0" y="892.0">com.mycompany.strategyexperiment.dao.experiment.AbstractFullDAO</node>
+                <node x="0.0" y="1244.0">com.mycompany.strategyexperiment.dao.control.DepartamentoDAO</node>
+                <node x="1765.0" y="1713.0">com.mycompany.strategyexperiment.dao.experiment.BuscarSalvarDAOEnum</node>
+                <node x="1185.0" y="1605.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarAtaParticipante</node>
+                <node x="1372.0" y="1910.0">com.mycompany.strategyexperiment.dao.experiment.BuscarSalvarExcluirDAOEnum</node>
+                <node x="1621.0" y="1605.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarPauta</node>
+                <node x="1757.0" y="1060.0">com.mycompany.strategyexperiment.dao.experiment.ComentarioSalvarBuscarDAO</node>
+                <node x="0.0" y="1595.0">com.mycompany.strategyexperiment.dao.experiment.listar.ListarAtaParticipante</node>
+                <node x="354.0" y="1814.0">com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirPauta</node>
+                <node x="952.0" y="1355.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarCampus</node>
+                <node x="1839.0" y="1605.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarComentario</node>
+                <node x="719.0" y="1104.0">com.mycompany.strategyexperiment.dao.experiment.PautaSalvarBuscarExcluirDAO</node>
+                <node x="1513.0" y="1355.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarDepartamento</node>
+                <node x="883.0" y="1713.0">com.mycompany.strategyexperiment.dao.control.ComentarioDAO</node>
+                <node x="183.0" y="1814.0">com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirAnexo</node>
+                <node x="1046.0" y="1910.0">com.mycompany.strategyexperiment.dao.experiment.FactoryFullDao</node>
+                <node x="296.0000000000001" y="250.5">com.mycompany.strategyexperiment.model.Departamento</node>
+                <node x="487.0000000000001" y="295.0">com.mycompany.strategyexperiment.model.ParticipanteReport</node>
+                <node x="2397.0" y="261.5">com.mycompany.strategyexperiment.model.Campus</node>
+                <node x="0.0" y="1148.0">com.mycompany.strategyexperiment.dao.experiment.AnexoFullDAO</node>
+                <node x="550.0" y="1713.0">com.mycompany.strategyexperiment.dao.control.AtaParticipanteDAO</node>
+                <node x="967.0" y="1605.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarCampus</node>
+                <node x="1111.0" y="1060.0">com.mycompany.strategyexperiment.dao.experiment.CampusSalvarBuscarDAO</node>
+                <node x="181.0" y="1494.0">com.mycompany.strategyexperiment.dao.experiment.listar.Listar</node>
+                <node x="1210.0" y="0.0">com.mycompany.strategyexperiment.model.IEntidadeDAO</node>
+                <node x="1462.0" y="892.0">com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO</node>
+                <node x="574.0" y="1910.0">com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarDAO</node>
+                <node x="1980.0" y="1713.0">com.mycompany.strategyexperiment.dao.experiment.FullDaoEnum</node>
+                <node x="183.0" y="1713.0">com.mycompany.strategyexperiment.dao.experiment.excluir.Excluir</node>
+                <node x="1292.0" y="672.0">com.mycompany.strategyexperiment.model.Ata.TipoAta</node>
+                <node x="2101.0" y="1244.0">com.mycompany.strategyexperiment.dao.control.CampusDAO</node>
+                <node x="387.0" y="1355.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarAtaParticipante</node>
+                <node x="2108.0" y="892.0">com.mycompany.strategyexperiment.dao.control.ConnectionDAO</node>
+                <node x="1102.25" y="1244.0">com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar</node>
+                <node x="16.5" y="661.0">com.mycompany.strategyexperiment.model.Comentario.SituacaoComentario</node>
+                <node x="777.0" y="892.0">com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarExcluirDAO</node>
+                <node x="0.0" y="262.0">com.mycompany.strategyexperiment.model.Comentario</node>
+                <node x="323.0" y="1148.0">com.mycompany.strategyexperiment.dao.experiment.AtaParticipanteFullDAO</node>
+                <node x="1223.0" y="1355.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarComentario</node>
+                <node x="1261.0" y="119.0">com.mycompany.strategyexperiment.model.Ata</node>
+                <node x="749.0" y="1605.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarDepartamento</node>
+                <node x="1198.0" y="1713.0">com.mycompany.strategyexperiment.dao.control.AnexoDAO</node>
+                <node x="1816.0" y="1355.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarAnexo</node>
+                <node x="1418.0" y="1060.0">com.mycompany.strategyexperiment.dao.experiment.DepartamentoSalvarBuscarDAO</node>
+                <node x="1520.0" y="207.0">com.mycompany.strategyexperiment.model.AtaReport</node>
+                <node x="1294.0" y="1494.0">com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar</node>
+                <node x="1483.0" y="1713.0">com.mycompany.strategyexperiment.dao.control.PautaDAO</node>
+                <node x="695.0" y="1355.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarPauta</node>
+                <node x="0.0" y="1814.0">com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirAtaParticipante</node>
+                <node x="1082.0" y="306.0">com.mycompany.strategyexperiment.model.OrgaoMembro</node>
+                <node x="1847.0" y="284.0">com.mycompany.strategyexperiment.model.Pauta</node>
+                <node x="2004.0" y="273.0">com.mycompany.strategyexperiment.model.AtaParticipante</node>
+                <node x="0.0" y="1910.0">com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarExcluirDAO</node>
+                <node x="2185.0" y="228.5">com.mycompany.strategyexperiment.model.Usuario</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="com.mycompany.strategyexperiment.model.AtaReport" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+                  <point x="0.0" y="-158.0" />
+                  <point x="1673.5" y="89.0" />
+                  <point x="1286.25" y="89.0" />
+                  <point x="15.25" y="14.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.listar.ListarAnexo" target="com.mycompany.strategyexperiment.dao.experiment.listar.Listar">
+                  <point x="0.0" y="-36.5" />
+                  <point x="533.0" y="1570.0" />
+                  <point x="437.5" y="1570.0" />
+                  <point x="85.5" y="25.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.AnexoFullDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractFullDAO">
+                  <point x="0.0" y="-25.5" />
+                  <point x="151.5" y="1123.0" />
+                  <point x="239.5" y="1123.0" />
+                  <point x="-85.5" y="103.0" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirAtaParticipante" target="com.mycompany.strategyexperiment.dao.experiment.excluir.Excluir">
+                  <point x="0.0" y="-25.5" />
+                  <point x="81.5" y="1789.0" />
+                  <point x="208.16666666666666" y="1789.0" />
+                  <point x="-50.33333333333334" y="25.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.model.Usuario" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+                  <point x="0.0" y="-136.5" />
+                  <point x="2281.0" y="59.0" />
+                  <point x="1316.75" y="59.0" />
+                  <point x="45.75" y="14.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarDepartamento" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
+                  <point x="0.0" y="-25.5" />
+                  <point x="848.0" y="1565.0" />
+                  <point x="1310.5" y="1565.0" />
+                  <point x="-82.5" y="25.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarComentario" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
+                  <point x="0.0" y="-36.5" />
+                  <point x="1358.0" y="1335.0" />
+                  <point x="1237.0" y="1335.0" />
+                  <point x="19.25" y="25.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.model.Ata.TipoAta" target="com.mycompany.strategyexperiment.model.Ata">
+                  <point x="0.0" y="-82.0" />
+                  <point x="0.0" y="246.0" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarAtaParticipante" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
+                  <point x="0.0" y="-36.5" />
+                  <point x="531.0" y="1315.0" />
+                  <point x="1121.5" y="1315.0" />
+                  <point x="-96.25" y="25.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.model.ParticipanteReport" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+                  <point x="0.0" y="-70.0" />
+                  <point x="576.0000000000001" y="69.0" />
+                  <point x="1235.416666666667" y="69.0" />
+                  <point x="-35.58333333333326" y="14.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.model.Comentario" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+                  <point x="0.0" y="-103.0" />
+                  <point x="138.0" y="49.0" />
+                  <point x="1215.0833333333335" y="49.0" />
+                  <point x="-55.91666666666674" y="14.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirAnexo" target="com.mycompany.strategyexperiment.dao.experiment.excluir.Excluir">
+                  <point x="0.0" y="-25.5" />
+                  <point x="0.0" y="25.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.DepartamentoSalvarBuscarDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO">
+                  <point x="0.0" y="-25.5" />
+                  <point x="0.0" y="59.0" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.AtaParticipanteFullDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractFullDAO">
+                  <point x="0.0" y="-25.5" />
+                  <point x="498.5" y="1123.0" />
+                  <point x="410.5" y="1123.0" />
+                  <point x="85.5" y="103.0" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarComentario" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
+                  <point x="0.0" y="-25.5" />
+                  <point x="1938.0" y="1565.0" />
+                  <point x="1475.5" y="1565.0" />
+                  <point x="82.5" y="25.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarDepartamento" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
+                  <point x="0.0" y="-36.5" />
+                  <point x="1654.5" y="1325.0" />
+                  <point x="1275.5" y="1325.0" />
+                  <point x="57.75" y="25.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.listar.ListarAtaParticipante" target="com.mycompany.strategyexperiment.dao.experiment.listar.Listar">
+                  <point x="0.0" y="-36.5" />
+                  <point x="171.0" y="1570.0" />
+                  <point x="266.5" y="1570.0" />
+                  <point x="-85.5" y="25.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.model.AtaParticipante" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+                  <point x="0.0" y="-92.0" />
+                  <point x="2084.5" y="69.0" />
+                  <point x="1306.5833333333335" y="69.0" />
+                  <point x="35.58333333333326" y="14.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarAtaParticipante" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
+                  <point x="0.0" y="-25.5" />
+                  <point x="1284.0" y="1585.0" />
+                  <point x="1376.5" y="1585.0" />
+                  <point x="-16.5" y="25.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.model.Pauta" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+                  <point x="0.0" y="-81.0" />
+                  <point x="1915.5" y="79.0" />
+                  <point x="1296.4166666666665" y="79.0" />
+                  <point x="25.416666666666515" y="14.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarPauta" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
+                  <point x="0.0" y="-36.5" />
+                  <point x="813.5" y="1325.0" />
+                  <point x="1160.0" y="1325.0" />
+                  <point x="-57.75" y="25.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.ComentarioSalvarBuscarDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO">
+                  <point x="0.0" y="-25.5" />
+                  <point x="1910.0" y="1035.0" />
+                  <point x="1654.5" y="1035.0" />
+                  <point x="77.0" y="59.0" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.model.Departamento" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+                  <point x="0.0" y="-114.5" />
+                  <point x="381.5000000000001" y="59.0" />
+                  <point x="1225.25" y="59.0" />
+                  <point x="-45.75" y="14.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarPauta" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
+                  <point x="0.0" y="-25.5" />
+                  <point x="1720.0" y="1575.0" />
+                  <point x="1442.5" y="1575.0" />
+                  <point x="49.5" y="25.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.model.Anexo" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+                  <point x="0.0" y="-81.0" />
+                  <point x="753.5000000000001" y="79.0" />
+                  <point x="1245.5833333333335" y="79.0" />
+                  <point x="-25.416666666666742" y="14.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarAnexo" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
+                  <point x="0.0" y="-25.5" />
+                  <point x="1502.0" y="1585.0" />
+                  <point x="1409.5" y="1585.0" />
+                  <point x="16.5" y="25.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.model.Campus" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+                  <point x="0.0" y="-103.5" />
+                  <point x="2473.5" y="49.0" />
+                  <point x="1326.9166666666665" y="49.0" />
+                  <point x="55.916666666666515" y="14.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.model.Ata" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+                  <point x="0.0" y="-246.0" />
+                  <point x="1380.5" y="99.0" />
+                  <point x="1276.0833333333335" y="99.0" />
+                  <point x="5.0833333333332575" y="14.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarCampus" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
+                  <point x="0.0" y="-25.5" />
+                  <point x="1066.0" y="1575.0" />
+                  <point x="1343.5" y="1575.0" />
+                  <point x="-49.5" y="25.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirPauta" target="com.mycompany.strategyexperiment.dao.experiment.excluir.Excluir">
+                  <point x="0.0" y="-25.5" />
+                  <point x="429.5" y="1789.0" />
+                  <point x="308.83333333333337" y="1789.0" />
+                  <point x="50.33333333333337" y="25.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.model.Comentario.SituacaoComentario" target="com.mycompany.strategyexperiment.model.Comentario">
+                  <point x="0.0" y="-93.0" />
+                  <point x="0.0" y="103.0" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.model.Orgao" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+                  <point x="0.0" y="-136.5" />
+                  <point x="952.0000000000001" y="89.0" />
+                  <point x="1255.75" y="89.0" />
+                  <point x="-15.25" y="14.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.CampusSalvarBuscarDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO">
+                  <point x="0.0" y="-25.5" />
+                  <point x="1254.5" y="1035.0" />
+                  <point x="1500.5" y="1035.0" />
+                  <point x="-77.0" y="59.0" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarCampus" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
+                  <point x="0.0" y="-36.5" />
+                  <point x="1077.5" y="1335.0" />
+                  <point x="1198.5" y="1335.0" />
+                  <point x="-19.25" y="25.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.PautaSalvarBuscarExcluirDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarExcluirDAO">
+                  <point x="0.0" y="-25.5" />
+                  <point x="0.0" y="81.0" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarAnexo" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
+                  <point x="0.0" y="-36.5" />
+                  <point x="1936.0" y="1315.0" />
+                  <point x="1314.0" y="1315.0" />
+                  <point x="96.25" y="25.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.model.OrgaoMembro" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+                  <point x="0.0" y="-59.0" />
+                  <point x="1161.5" y="99.0" />
+                  <point x="1265.916666666667" y="99.0" />
+                  <point x="-5.0833333333332575" y="14.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="1025.0" y="1020.0" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+                <Category>Properties</Category>
+                <Category>Inner Classes</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractFullDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/strategyexperiment/dao/experiment/AbstractFullDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strategyexperiment.iml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/strategyexperiment.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FactoryBuscarSalvarExcluirDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/strategyexperiment/dao/experiment/FactoryBuscarSalvarExcluirDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="strategyexperiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experiment-strategy-pattern-impact-maintainability" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="strategyexperiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experiment-strategy-pattern-impact-maintainability" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="strategyexperiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experiment-strategy-pattern-impact-maintainability" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="strategyexperiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experiment-strategy-pattern-impact-maintainability" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="strategyexperiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experiment-strategy-pattern-impact-maintainability" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="strategyexperiment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="strategyexperiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experiment-strategy-pattern-impact-maintainability" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="strategyexperiment" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="strategyexperiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experiment-strategy-pattern-impact-maintainability" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="strategyexperiment" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="experiment" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10153b05-40b6-4dcc-9bb3-66c502206a1f" name="Default" comment="" />
+      <created>1528688098679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528688098679</updated>
+      <workItem from="1528688104622" duration="649000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="649000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2920937" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/strategyexperiment/dao/experiment/AbstractSalvarBuscarDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.mycompany.strategyexperiment">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.mycompany.strategyexperiment</OriginalElement>
+          <nodes>
+            <node x="842.0000000000001" y="228.5">com.mycompany.strategyexperiment.model.Orgao</node>
+            <node x="685.0000000000001" y="284.0">com.mycompany.strategyexperiment.model.Anexo</node>
+            <node x="362.0" y="1595.0">com.mycompany.strategyexperiment.dao.experiment.listar.ListarAnexo</node>
+            <node x="1403.0" y="1605.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarAnexo</node>
+            <node x="154.0" y="892.0">com.mycompany.strategyexperiment.dao.experiment.AbstractFullDAO</node>
+            <node x="0.0" y="1244.0">com.mycompany.strategyexperiment.dao.control.DepartamentoDAO</node>
+            <node x="1765.0" y="1713.0">com.mycompany.strategyexperiment.dao.experiment.BuscarSalvarDAOEnum</node>
+            <node x="1185.0" y="1605.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarAtaParticipante</node>
+            <node x="1372.0" y="1910.0">com.mycompany.strategyexperiment.dao.experiment.BuscarSalvarExcluirDAOEnum</node>
+            <node x="1621.0" y="1605.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarPauta</node>
+            <node x="1757.0" y="1060.0">com.mycompany.strategyexperiment.dao.experiment.ComentarioSalvarBuscarDAO</node>
+            <node x="0.0" y="1595.0">com.mycompany.strategyexperiment.dao.experiment.listar.ListarAtaParticipante</node>
+            <node x="354.0" y="1814.0">com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirPauta</node>
+            <node x="952.0" y="1355.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarCampus</node>
+            <node x="1839.0" y="1605.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarComentario</node>
+            <node x="719.0" y="1104.0">com.mycompany.strategyexperiment.dao.experiment.PautaSalvarBuscarExcluirDAO</node>
+            <node x="1513.0" y="1355.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarDepartamento</node>
+            <node x="883.0" y="1713.0">com.mycompany.strategyexperiment.dao.control.ComentarioDAO</node>
+            <node x="183.0" y="1814.0">com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirAnexo</node>
+            <node x="1046.0" y="1910.0">com.mycompany.strategyexperiment.dao.experiment.FactoryFullDao</node>
+            <node x="296.0000000000001" y="250.5">com.mycompany.strategyexperiment.model.Departamento</node>
+            <node x="487.0000000000001" y="295.0">com.mycompany.strategyexperiment.model.ParticipanteReport</node>
+            <node x="2397.0" y="261.5">com.mycompany.strategyexperiment.model.Campus</node>
+            <node x="0.0" y="1148.0">com.mycompany.strategyexperiment.dao.experiment.AnexoFullDAO</node>
+            <node x="550.0" y="1713.0">com.mycompany.strategyexperiment.dao.control.AtaParticipanteDAO</node>
+            <node x="967.0" y="1605.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarCampus</node>
+            <node x="1111.0" y="1060.0">com.mycompany.strategyexperiment.dao.experiment.CampusSalvarBuscarDAO</node>
+            <node x="181.0" y="1494.0">com.mycompany.strategyexperiment.dao.experiment.listar.Listar</node>
+            <node x="1210.0" y="0.0">com.mycompany.strategyexperiment.model.IEntidadeDAO</node>
+            <node x="1462.0" y="892.0">com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO</node>
+            <node x="574.0" y="1910.0">com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarDAO</node>
+            <node x="1980.0" y="1713.0">com.mycompany.strategyexperiment.dao.experiment.FullDaoEnum</node>
+            <node x="183.0" y="1713.0">com.mycompany.strategyexperiment.dao.experiment.excluir.Excluir</node>
+            <node x="1292.0" y="672.0">com.mycompany.strategyexperiment.model.Ata.TipoAta</node>
+            <node x="2101.0" y="1244.0">com.mycompany.strategyexperiment.dao.control.CampusDAO</node>
+            <node x="387.0" y="1355.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarAtaParticipante</node>
+            <node x="2108.0" y="892.0">com.mycompany.strategyexperiment.dao.control.ConnectionDAO</node>
+            <node x="1102.25" y="1244.0">com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar</node>
+            <node x="16.5" y="661.0">com.mycompany.strategyexperiment.model.Comentario.SituacaoComentario</node>
+            <node x="777.0" y="892.0">com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarExcluirDAO</node>
+            <node x="0.0" y="262.0">com.mycompany.strategyexperiment.model.Comentario</node>
+            <node x="323.0" y="1148.0">com.mycompany.strategyexperiment.dao.experiment.AtaParticipanteFullDAO</node>
+            <node x="1223.0" y="1355.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarComentario</node>
+            <node x="1261.0" y="119.0">com.mycompany.strategyexperiment.model.Ata</node>
+            <node x="749.0" y="1605.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarDepartamento</node>
+            <node x="1198.0" y="1713.0">com.mycompany.strategyexperiment.dao.control.AnexoDAO</node>
+            <node x="1816.0" y="1355.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarAnexo</node>
+            <node x="1418.0" y="1060.0">com.mycompany.strategyexperiment.dao.experiment.DepartamentoSalvarBuscarDAO</node>
+            <node x="1520.0" y="207.0">com.mycompany.strategyexperiment.model.AtaReport</node>
+            <node x="1294.0" y="1494.0">com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar</node>
+            <node x="1483.0" y="1713.0">com.mycompany.strategyexperiment.dao.control.PautaDAO</node>
+            <node x="695.0" y="1355.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarPauta</node>
+            <node x="0.0" y="1814.0">com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirAtaParticipante</node>
+            <node x="1082.0" y="306.0">com.mycompany.strategyexperiment.model.OrgaoMembro</node>
+            <node x="1847.0" y="284.0">com.mycompany.strategyexperiment.model.Pauta</node>
+            <node x="2004.0" y="273.0">com.mycompany.strategyexperiment.model.AtaParticipante</node>
+            <node x="0.0" y="1910.0">com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarExcluirDAO</node>
+            <node x="2185.0" y="228.5">com.mycompany.strategyexperiment.model.Usuario</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.mycompany.strategyexperiment.model.AtaReport" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="0.0" y="-158.0" />
+              <point x="1673.5" y="89.0" />
+              <point x="1286.25" y="89.0" />
+              <point x="15.25" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.listar.ListarAnexo" target="com.mycompany.strategyexperiment.dao.experiment.listar.Listar">
+              <point x="0.0" y="-36.5" />
+              <point x="533.0" y="1570.0" />
+              <point x="437.5" y="1570.0" />
+              <point x="85.5" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.AnexoFullDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractFullDAO">
+              <point x="0.0" y="-25.5" />
+              <point x="151.5" y="1123.0" />
+              <point x="239.5" y="1123.0" />
+              <point x="-85.5" y="103.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirAtaParticipante" target="com.mycompany.strategyexperiment.dao.experiment.excluir.Excluir">
+              <point x="0.0" y="-25.5" />
+              <point x="81.5" y="1789.0" />
+              <point x="208.16666666666666" y="1789.0" />
+              <point x="-50.33333333333334" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Usuario" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="0.0" y="-136.5" />
+              <point x="2281.0" y="59.0" />
+              <point x="1316.75" y="59.0" />
+              <point x="45.75" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarDepartamento" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
+              <point x="0.0" y="-25.5" />
+              <point x="848.0" y="1565.0" />
+              <point x="1310.5" y="1565.0" />
+              <point x="-82.5" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarComentario" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
+              <point x="0.0" y="-36.5" />
+              <point x="1358.0" y="1335.0" />
+              <point x="1237.0" y="1335.0" />
+              <point x="19.25" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Ata.TipoAta" target="com.mycompany.strategyexperiment.model.Ata">
+              <point x="0.0" y="-82.0" />
+              <point x="0.0" y="246.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarAtaParticipante" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
+              <point x="0.0" y="-36.5" />
+              <point x="531.0" y="1315.0" />
+              <point x="1121.5" y="1315.0" />
+              <point x="-96.25" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.ParticipanteReport" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="0.0" y="-70.0" />
+              <point x="576.0000000000001" y="69.0" />
+              <point x="1235.416666666667" y="69.0" />
+              <point x="-35.58333333333326" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Comentario" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="0.0" y="-103.0" />
+              <point x="138.0" y="49.0" />
+              <point x="1215.0833333333335" y="49.0" />
+              <point x="-55.91666666666674" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirAnexo" target="com.mycompany.strategyexperiment.dao.experiment.excluir.Excluir">
+              <point x="0.0" y="-25.5" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.DepartamentoSalvarBuscarDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO">
+              <point x="0.0" y="-25.5" />
+              <point x="0.0" y="59.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.AtaParticipanteFullDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractFullDAO">
+              <point x="0.0" y="-25.5" />
+              <point x="498.5" y="1123.0" />
+              <point x="410.5" y="1123.0" />
+              <point x="85.5" y="103.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarComentario" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
+              <point x="0.0" y="-25.5" />
+              <point x="1938.0" y="1565.0" />
+              <point x="1475.5" y="1565.0" />
+              <point x="82.5" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarDepartamento" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
+              <point x="0.0" y="-36.5" />
+              <point x="1654.5" y="1325.0" />
+              <point x="1275.5" y="1325.0" />
+              <point x="57.75" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.listar.ListarAtaParticipante" target="com.mycompany.strategyexperiment.dao.experiment.listar.Listar">
+              <point x="0.0" y="-36.5" />
+              <point x="171.0" y="1570.0" />
+              <point x="266.5" y="1570.0" />
+              <point x="-85.5" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.AtaParticipante" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="0.0" y="-92.0" />
+              <point x="2084.5" y="69.0" />
+              <point x="1306.5833333333335" y="69.0" />
+              <point x="35.58333333333326" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarAtaParticipante" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
+              <point x="0.0" y="-25.5" />
+              <point x="1284.0" y="1585.0" />
+              <point x="1376.5" y="1585.0" />
+              <point x="-16.5" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Pauta" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="0.0" y="-81.0" />
+              <point x="1915.5" y="79.0" />
+              <point x="1296.4166666666665" y="79.0" />
+              <point x="25.416666666666515" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarPauta" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
+              <point x="0.0" y="-36.5" />
+              <point x="813.5" y="1325.0" />
+              <point x="1160.0" y="1325.0" />
+              <point x="-57.75" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.ComentarioSalvarBuscarDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO">
+              <point x="0.0" y="-25.5" />
+              <point x="1910.0" y="1035.0" />
+              <point x="1654.5" y="1035.0" />
+              <point x="77.0" y="59.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Departamento" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="0.0" y="-114.5" />
+              <point x="381.5000000000001" y="59.0" />
+              <point x="1225.25" y="59.0" />
+              <point x="-45.75" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarPauta" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
+              <point x="0.0" y="-25.5" />
+              <point x="1720.0" y="1575.0" />
+              <point x="1442.5" y="1575.0" />
+              <point x="49.5" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Anexo" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="0.0" y="-81.0" />
+              <point x="753.5000000000001" y="79.0" />
+              <point x="1245.5833333333335" y="79.0" />
+              <point x="-25.416666666666742" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarAnexo" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
+              <point x="0.0" y="-25.5" />
+              <point x="1502.0" y="1585.0" />
+              <point x="1409.5" y="1585.0" />
+              <point x="16.5" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Campus" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="0.0" y="-103.5" />
+              <point x="2473.5" y="49.0" />
+              <point x="1326.9166666666665" y="49.0" />
+              <point x="55.916666666666515" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Ata" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="0.0" y="-246.0" />
+              <point x="1380.5" y="99.0" />
+              <point x="1276.0833333333335" y="99.0" />
+              <point x="5.0833333333332575" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarCampus" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
+              <point x="0.0" y="-25.5" />
+              <point x="1066.0" y="1575.0" />
+              <point x="1343.5" y="1575.0" />
+              <point x="-49.5" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirPauta" target="com.mycompany.strategyexperiment.dao.experiment.excluir.Excluir">
+              <point x="0.0" y="-25.5" />
+              <point x="429.5" y="1789.0" />
+              <point x="308.83333333333337" y="1789.0" />
+              <point x="50.33333333333337" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Comentario.SituacaoComentario" target="com.mycompany.strategyexperiment.model.Comentario">
+              <point x="0.0" y="-93.0" />
+              <point x="0.0" y="103.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Orgao" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="0.0" y="-136.5" />
+              <point x="952.0000000000001" y="89.0" />
+              <point x="1255.75" y="89.0" />
+              <point x="-15.25" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.CampusSalvarBuscarDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO">
+              <point x="0.0" y="-25.5" />
+              <point x="1254.5" y="1035.0" />
+              <point x="1500.5" y="1035.0" />
+              <point x="-77.0" y="59.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarCampus" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
+              <point x="0.0" y="-36.5" />
+              <point x="1077.5" y="1335.0" />
+              <point x="1198.5" y="1335.0" />
+              <point x="-19.25" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.PautaSalvarBuscarExcluirDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarExcluirDAO">
+              <point x="0.0" y="-25.5" />
+              <point x="0.0" y="81.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarAnexo" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
+              <point x="0.0" y="-36.5" />
+              <point x="1936.0" y="1315.0" />
+              <point x="1314.0" y="1315.0" />
+              <point x="96.25" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.OrgaoMembro" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="0.0" y="-59.0" />
+              <point x="1161.5" y="99.0" />
+              <point x="1265.916666666667" y="99.0" />
+              <point x="-5.0833333333332575" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="1025.0" y="1020.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/strategyexperiment/dao/experiment/FactoryBuscarSalvarExcluirDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/strategyexperiment/dao/experiment/AbstractFullDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strategyexperiment.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
