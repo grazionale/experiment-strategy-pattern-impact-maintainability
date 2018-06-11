@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10153b05-40b6-4dcc-9bb3-66c502206a1f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aspectj_aspectjrt_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aspectj_aspectjtools_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mysql_management_5_0_2_beta.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jdmk_jmxtools_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_3_1_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="AbstractSalvarBuscarDAO.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/strategyexperiment/dao/experiment/AbstractSalvarBuscarDAO.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -33,288 +23,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JAVA/com.mycompany.strategyexperiment" pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/com.mycompany.strategyexperiment">
+      <file leaf-file-name="JAVA/com.mycompany.strategyexperiment.dao.control" pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/com.mycompany.strategyexperiment.dao.control">
           <provider selected="true" editor-type-id="UmlEditorProvider">
             <state>
               <ID>JAVA</ID>
-              <OriginalElement>com.mycompany.strategyexperiment</OriginalElement>
+              <OriginalElement>com.mycompany.strategyexperiment.dao.control</OriginalElement>
               <nodes>
-                <node x="842.0000000000001" y="228.5">com.mycompany.strategyexperiment.model.Orgao</node>
-                <node x="685.0000000000001" y="284.0">com.mycompany.strategyexperiment.model.Anexo</node>
-                <node x="362.0" y="1595.0">com.mycompany.strategyexperiment.dao.experiment.listar.ListarAnexo</node>
-                <node x="1403.0" y="1605.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarAnexo</node>
-                <node x="154.0" y="892.0">com.mycompany.strategyexperiment.dao.experiment.AbstractFullDAO</node>
-                <node x="0.0" y="1244.0">com.mycompany.strategyexperiment.dao.control.DepartamentoDAO</node>
-                <node x="1765.0" y="1713.0">com.mycompany.strategyexperiment.dao.experiment.BuscarSalvarDAOEnum</node>
-                <node x="1185.0" y="1605.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarAtaParticipante</node>
-                <node x="1372.0" y="1910.0">com.mycompany.strategyexperiment.dao.experiment.BuscarSalvarExcluirDAOEnum</node>
-                <node x="1621.0" y="1605.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarPauta</node>
-                <node x="1757.0" y="1060.0">com.mycompany.strategyexperiment.dao.experiment.ComentarioSalvarBuscarDAO</node>
-                <node x="0.0" y="1595.0">com.mycompany.strategyexperiment.dao.experiment.listar.ListarAtaParticipante</node>
-                <node x="354.0" y="1814.0">com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirPauta</node>
-                <node x="952.0" y="1355.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarCampus</node>
-                <node x="1839.0" y="1605.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarComentario</node>
-                <node x="719.0" y="1104.0">com.mycompany.strategyexperiment.dao.experiment.PautaSalvarBuscarExcluirDAO</node>
-                <node x="1513.0" y="1355.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarDepartamento</node>
-                <node x="883.0" y="1713.0">com.mycompany.strategyexperiment.dao.control.ComentarioDAO</node>
-                <node x="183.0" y="1814.0">com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirAnexo</node>
-                <node x="1046.0" y="1910.0">com.mycompany.strategyexperiment.dao.experiment.FactoryFullDao</node>
-                <node x="296.0000000000001" y="250.5">com.mycompany.strategyexperiment.model.Departamento</node>
-                <node x="487.0000000000001" y="295.0">com.mycompany.strategyexperiment.model.ParticipanteReport</node>
-                <node x="2397.0" y="261.5">com.mycompany.strategyexperiment.model.Campus</node>
-                <node x="0.0" y="1148.0">com.mycompany.strategyexperiment.dao.experiment.AnexoFullDAO</node>
-                <node x="550.0" y="1713.0">com.mycompany.strategyexperiment.dao.control.AtaParticipanteDAO</node>
-                <node x="967.0" y="1605.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarCampus</node>
-                <node x="1111.0" y="1060.0">com.mycompany.strategyexperiment.dao.experiment.CampusSalvarBuscarDAO</node>
-                <node x="181.0" y="1494.0">com.mycompany.strategyexperiment.dao.experiment.listar.Listar</node>
-                <node x="1210.0" y="0.0">com.mycompany.strategyexperiment.model.IEntidadeDAO</node>
-                <node x="1462.0" y="892.0">com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO</node>
-                <node x="574.0" y="1910.0">com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarDAO</node>
-                <node x="1980.0" y="1713.0">com.mycompany.strategyexperiment.dao.experiment.FullDaoEnum</node>
-                <node x="183.0" y="1713.0">com.mycompany.strategyexperiment.dao.experiment.excluir.Excluir</node>
-                <node x="1292.0" y="672.0">com.mycompany.strategyexperiment.model.Ata.TipoAta</node>
-                <node x="2101.0" y="1244.0">com.mycompany.strategyexperiment.dao.control.CampusDAO</node>
-                <node x="387.0" y="1355.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarAtaParticipante</node>
-                <node x="2108.0" y="892.0">com.mycompany.strategyexperiment.dao.control.ConnectionDAO</node>
-                <node x="1102.25" y="1244.0">com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar</node>
-                <node x="16.5" y="661.0">com.mycompany.strategyexperiment.model.Comentario.SituacaoComentario</node>
-                <node x="777.0" y="892.0">com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarExcluirDAO</node>
-                <node x="0.0" y="262.0">com.mycompany.strategyexperiment.model.Comentario</node>
-                <node x="323.0" y="1148.0">com.mycompany.strategyexperiment.dao.experiment.AtaParticipanteFullDAO</node>
-                <node x="1223.0" y="1355.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarComentario</node>
-                <node x="1261.0" y="119.0">com.mycompany.strategyexperiment.model.Ata</node>
-                <node x="749.0" y="1605.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarDepartamento</node>
-                <node x="1198.0" y="1713.0">com.mycompany.strategyexperiment.dao.control.AnexoDAO</node>
-                <node x="1816.0" y="1355.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarAnexo</node>
-                <node x="1418.0" y="1060.0">com.mycompany.strategyexperiment.dao.experiment.DepartamentoSalvarBuscarDAO</node>
-                <node x="1520.0" y="207.0">com.mycompany.strategyexperiment.model.AtaReport</node>
-                <node x="1294.0" y="1494.0">com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar</node>
-                <node x="1483.0" y="1713.0">com.mycompany.strategyexperiment.dao.control.PautaDAO</node>
-                <node x="695.0" y="1355.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarPauta</node>
-                <node x="0.0" y="1814.0">com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirAtaParticipante</node>
-                <node x="1082.0" y="306.0">com.mycompany.strategyexperiment.model.OrgaoMembro</node>
-                <node x="1847.0" y="284.0">com.mycompany.strategyexperiment.model.Pauta</node>
-                <node x="2004.0" y="273.0">com.mycompany.strategyexperiment.model.AtaParticipante</node>
-                <node x="0.0" y="1910.0">com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarExcluirDAO</node>
-                <node x="2185.0" y="228.5">com.mycompany.strategyexperiment.model.Usuario</node>
+                <node x="930.0" y="301.0">com.mycompany.strategyexperiment.dao.control.PautaDAO</node>
+                <node x="1477.0" y="279.0">com.mycompany.strategyexperiment.dao.control.CampusDAO</node>
+                <node x="779.75" y="0.0">com.mycompany.strategyexperiment.dao.control.ConnectionDAO</node>
+                <node x="308.0" y="301.0">com.mycompany.strategyexperiment.dao.control.AnexoDAO</node>
+                <node x="568.0" y="268.0">com.mycompany.strategyexperiment.dao.control.DepartamentoDAO</node>
+                <node x="1187.0" y="301.0">com.mycompany.strategyexperiment.dao.control.ComentarioDAO</node>
+                <node x="0.0" y="301.0">com.mycompany.strategyexperiment.dao.control.AtaParticipanteDAO</node>
               </nodes>
               <notes />
               <edges>
-                <edge source="com.mycompany.strategyexperiment.model.AtaReport" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
-                  <point x="0.0" y="-158.0" />
-                  <point x="1673.5" y="89.0" />
-                  <point x="1286.25" y="89.0" />
-                  <point x="15.25" y="14.5" />
+                <edge source="com.mycompany.strategyexperiment.dao.control.DepartamentoDAO" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+                  <point x="0.0" y="-102.5" />
+                  <point x="739.0" y="248.0" />
+                  <point x="874.75" y="248.0" />
+                  <point x="-19.0" y="104.0" />
                 </edge>
-                <edge source="com.mycompany.strategyexperiment.dao.experiment.listar.ListarAnexo" target="com.mycompany.strategyexperiment.dao.experiment.listar.Listar">
-                  <point x="0.0" y="-36.5" />
-                  <point x="533.0" y="1570.0" />
-                  <point x="437.5" y="1570.0" />
-                  <point x="85.5" y="25.5" />
+                <edge source="com.mycompany.strategyexperiment.dao.control.AnexoDAO" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+                  <point x="0.0" y="-69.5" />
+                  <point x="428.0" y="238.0" />
+                  <point x="836.75" y="238.0" />
+                  <point x="-57.0" y="104.0" />
                 </edge>
-                <edge source="com.mycompany.strategyexperiment.dao.experiment.AnexoFullDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractFullDAO">
-                  <point x="0.0" y="-25.5" />
-                  <point x="151.5" y="1123.0" />
-                  <point x="239.5" y="1123.0" />
-                  <point x="-85.5" y="103.0" />
+                <edge source="com.mycompany.strategyexperiment.dao.control.ComentarioDAO" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+                  <point x="0.0" y="-69.5" />
+                  <point x="1322.0" y="238.0" />
+                  <point x="950.75" y="238.0" />
+                  <point x="57.0" y="104.0" />
                 </edge>
-                <edge source="com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirAtaParticipante" target="com.mycompany.strategyexperiment.dao.experiment.excluir.Excluir">
-                  <point x="0.0" y="-25.5" />
-                  <point x="81.5" y="1789.0" />
-                  <point x="208.16666666666666" y="1789.0" />
-                  <point x="-50.33333333333334" y="25.5" />
+                <edge source="com.mycompany.strategyexperiment.dao.control.AtaParticipanteDAO" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+                  <point x="0.0" y="-69.5" />
+                  <point x="144.0" y="228.0" />
+                  <point x="798.75" y="228.0" />
+                  <point x="-95.0" y="104.0" />
                 </edge>
-                <edge source="com.mycompany.strategyexperiment.model.Usuario" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
-                  <point x="0.0" y="-136.5" />
-                  <point x="2281.0" y="59.0" />
-                  <point x="1316.75" y="59.0" />
-                  <point x="45.75" y="14.5" />
+                <edge source="com.mycompany.strategyexperiment.dao.control.PautaDAO" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+                  <point x="0.0" y="-69.5" />
+                  <point x="1048.5" y="248.0" />
+                  <point x="912.75" y="248.0" />
+                  <point x="19.0" y="104.0" />
                 </edge>
-                <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarDepartamento" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
-                  <point x="0.0" y="-25.5" />
-                  <point x="848.0" y="1565.0" />
-                  <point x="1310.5" y="1565.0" />
-                  <point x="-82.5" y="25.5" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarComentario" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
-                  <point x="0.0" y="-36.5" />
-                  <point x="1358.0" y="1335.0" />
-                  <point x="1237.0" y="1335.0" />
-                  <point x="19.25" y="25.5" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.model.Ata.TipoAta" target="com.mycompany.strategyexperiment.model.Ata">
-                  <point x="0.0" y="-82.0" />
-                  <point x="0.0" y="246.0" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarAtaParticipante" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
-                  <point x="0.0" y="-36.5" />
-                  <point x="531.0" y="1315.0" />
-                  <point x="1121.5" y="1315.0" />
-                  <point x="-96.25" y="25.5" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.model.ParticipanteReport" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
-                  <point x="0.0" y="-70.0" />
-                  <point x="576.0000000000001" y="69.0" />
-                  <point x="1235.416666666667" y="69.0" />
-                  <point x="-35.58333333333326" y="14.5" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.model.Comentario" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
-                  <point x="0.0" y="-103.0" />
-                  <point x="138.0" y="49.0" />
-                  <point x="1215.0833333333335" y="49.0" />
-                  <point x="-55.91666666666674" y="14.5" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirAnexo" target="com.mycompany.strategyexperiment.dao.experiment.excluir.Excluir">
-                  <point x="0.0" y="-25.5" />
-                  <point x="0.0" y="25.5" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.dao.experiment.DepartamentoSalvarBuscarDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO">
-                  <point x="0.0" y="-25.5" />
-                  <point x="0.0" y="59.0" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.dao.experiment.AtaParticipanteFullDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractFullDAO">
-                  <point x="0.0" y="-25.5" />
-                  <point x="498.5" y="1123.0" />
-                  <point x="410.5" y="1123.0" />
-                  <point x="85.5" y="103.0" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarComentario" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
-                  <point x="0.0" y="-25.5" />
-                  <point x="1938.0" y="1565.0" />
-                  <point x="1475.5" y="1565.0" />
-                  <point x="82.5" y="25.5" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarDepartamento" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
-                  <point x="0.0" y="-36.5" />
-                  <point x="1654.5" y="1325.0" />
-                  <point x="1275.5" y="1325.0" />
-                  <point x="57.75" y="25.5" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.dao.experiment.listar.ListarAtaParticipante" target="com.mycompany.strategyexperiment.dao.experiment.listar.Listar">
-                  <point x="0.0" y="-36.5" />
-                  <point x="171.0" y="1570.0" />
-                  <point x="266.5" y="1570.0" />
-                  <point x="-85.5" y="25.5" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.model.AtaParticipante" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
-                  <point x="0.0" y="-92.0" />
-                  <point x="2084.5" y="69.0" />
-                  <point x="1306.5833333333335" y="69.0" />
-                  <point x="35.58333333333326" y="14.5" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarAtaParticipante" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
-                  <point x="0.0" y="-25.5" />
-                  <point x="1284.0" y="1585.0" />
-                  <point x="1376.5" y="1585.0" />
-                  <point x="-16.5" y="25.5" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.model.Pauta" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
-                  <point x="0.0" y="-81.0" />
-                  <point x="1915.5" y="79.0" />
-                  <point x="1296.4166666666665" y="79.0" />
-                  <point x="25.416666666666515" y="14.5" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarPauta" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
-                  <point x="0.0" y="-36.5" />
-                  <point x="813.5" y="1325.0" />
-                  <point x="1160.0" y="1325.0" />
-                  <point x="-57.75" y="25.5" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.dao.experiment.ComentarioSalvarBuscarDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO">
-                  <point x="0.0" y="-25.5" />
-                  <point x="1910.0" y="1035.0" />
-                  <point x="1654.5" y="1035.0" />
-                  <point x="77.0" y="59.0" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.model.Departamento" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
-                  <point x="0.0" y="-114.5" />
-                  <point x="381.5000000000001" y="59.0" />
-                  <point x="1225.25" y="59.0" />
-                  <point x="-45.75" y="14.5" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarPauta" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
-                  <point x="0.0" y="-25.5" />
-                  <point x="1720.0" y="1575.0" />
-                  <point x="1442.5" y="1575.0" />
-                  <point x="49.5" y="25.5" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.model.Anexo" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
-                  <point x="0.0" y="-81.0" />
-                  <point x="753.5000000000001" y="79.0" />
-                  <point x="1245.5833333333335" y="79.0" />
-                  <point x="-25.416666666666742" y="14.5" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarAnexo" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
-                  <point x="0.0" y="-25.5" />
-                  <point x="1502.0" y="1585.0" />
-                  <point x="1409.5" y="1585.0" />
-                  <point x="16.5" y="25.5" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.model.Campus" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
-                  <point x="0.0" y="-103.5" />
-                  <point x="2473.5" y="49.0" />
-                  <point x="1326.9166666666665" y="49.0" />
-                  <point x="55.916666666666515" y="14.5" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.model.Ata" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
-                  <point x="0.0" y="-246.0" />
-                  <point x="1380.5" y="99.0" />
-                  <point x="1276.0833333333335" y="99.0" />
-                  <point x="5.0833333333332575" y="14.5" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarCampus" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
-                  <point x="0.0" y="-25.5" />
-                  <point x="1066.0" y="1575.0" />
-                  <point x="1343.5" y="1575.0" />
-                  <point x="-49.5" y="25.5" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirPauta" target="com.mycompany.strategyexperiment.dao.experiment.excluir.Excluir">
-                  <point x="0.0" y="-25.5" />
-                  <point x="429.5" y="1789.0" />
-                  <point x="308.83333333333337" y="1789.0" />
-                  <point x="50.33333333333337" y="25.5" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.model.Comentario.SituacaoComentario" target="com.mycompany.strategyexperiment.model.Comentario">
-                  <point x="0.0" y="-93.0" />
-                  <point x="0.0" y="103.0" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.model.Orgao" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
-                  <point x="0.0" y="-136.5" />
-                  <point x="952.0000000000001" y="89.0" />
-                  <point x="1255.75" y="89.0" />
-                  <point x="-15.25" y="14.5" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.dao.experiment.CampusSalvarBuscarDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO">
-                  <point x="0.0" y="-25.5" />
-                  <point x="1254.5" y="1035.0" />
-                  <point x="1500.5" y="1035.0" />
-                  <point x="-77.0" y="59.0" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarCampus" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
-                  <point x="0.0" y="-36.5" />
-                  <point x="1077.5" y="1335.0" />
-                  <point x="1198.5" y="1335.0" />
-                  <point x="-19.25" y="25.5" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.dao.experiment.PautaSalvarBuscarExcluirDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarExcluirDAO">
-                  <point x="0.0" y="-25.5" />
-                  <point x="0.0" y="81.0" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarAnexo" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
-                  <point x="0.0" y="-36.5" />
-                  <point x="1936.0" y="1315.0" />
-                  <point x="1314.0" y="1315.0" />
-                  <point x="96.25" y="25.5" />
-                </edge>
-                <edge source="com.mycompany.strategyexperiment.model.OrgaoMembro" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
-                  <point x="0.0" y="-59.0" />
-                  <point x="1161.5" y="99.0" />
-                  <point x="1265.916666666667" y="99.0" />
-                  <point x="-5.0833333333332575" y="14.5" />
+                <edge source="com.mycompany.strategyexperiment.dao.control.CampusDAO" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+                  <point x="0.0" y="-91.5" />
+                  <point x="1622.0" y="228.0" />
+                  <point x="988.75" y="228.0" />
+                  <point x="95.0" y="104.0" />
                 </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="1025.0" y="1020.0" />
+              <settings layout="Hierarchic Group" zoom="1.0" x="821.0" y="169.0" />
               <SelectedNodes />
               <Categories>
                 <Category>Fields</Category>
@@ -329,23 +92,87 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AbstractFullDAO.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/strategyexperiment/dao/experiment/AbstractFullDAO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+      <file leaf-file-name="JAVA/com.mycompany.strategyexperiment.dao.experiment" pinned="false" current-in-tab="true">
+        <entry file="uml://JAVA/com.mycompany.strategyexperiment.dao.experiment">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>com.mycompany.strategyexperiment.dao.experiment</OriginalElement>
+              <nodes>
+                <node x="222.0" y="79.0">com.mycompany.strategyexperiment.dao.experiment.CampusSalvarBuscarDAO</node>
+                <node x="222.0" y="0.0">com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO</node>
+                <node x="370.0" y="232.0">com.mycompany.strategyexperiment.dao.experiment.PautaSalvarBuscarExcluirDAO</node>
+                <node x="425.0" y="79.0">com.mycompany.strategyexperiment.dao.experiment.DepartamentoSalvarBuscarDAO</node>
+                <node x="103.0" y="153.0">com.mycompany.strategyexperiment.dao.experiment.AbstractFullDAO</node>
+                <node x="323.0" y="454.0">com.mycompany.strategyexperiment.dao.experiment.excluir</node>
+                <node x="0.0" y="380.0">com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarDAO</node>
+                <node x="0.0" y="454.0">com.mycompany.strategyexperiment.dao.experiment.FullDaoEnum</node>
+                <node x="223.0" y="380.0">com.mycompany.strategyexperiment.dao.experiment.BuscarSalvarDAOEnum</node>
+                <node x="481.0" y="454.0">com.mycompany.strategyexperiment.dao.experiment.salvar</node>
+                <node x="438.0" y="380.0">com.mycompany.strategyexperiment.dao.experiment.FactoryFullDao</node>
+                <node x="164.0" y="454.0">com.mycompany.strategyexperiment.dao.experiment.buscar</node>
+                <node x="0.0" y="528.0">com.mycompany.strategyexperiment.dao.experiment.listar</node>
+                <node x="257.0" y="306.0">com.mycompany.strategyexperiment.dao.experiment.BuscarSalvarExcluirDAOEnum</node>
+                <node x="193.0" y="232.0">com.mycompany.strategyexperiment.dao.experiment.AnexoFullDAO</node>
+                <node x="0.0" y="306.0">com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarExcluirDAO</node>
+                <node x="363.0" y="153.0">com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarExcluirDAO</node>
+                <node x="0.0" y="79.0">com.mycompany.strategyexperiment.dao.experiment.ComentarioSalvarBuscarDAO</node>
+                <node x="0.0" y="232.0">com.mycompany.strategyexperiment.dao.experiment.AtaParticipanteFullDAO</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.CampusSalvarBuscarDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO">
+                  <point x="0.0" y="-14.5" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.AnexoFullDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractFullDAO">
+                  <point x="0.0" y="-14.5" />
+                  <point x="255.5" y="207.0" />
+                  <point x="205.0" y="207.0" />
+                  <point x="34.0" y="14.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.DepartamentoSalvarBuscarDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO">
+                  <point x="0.0" y="-14.5" />
+                  <point x="532.5" y="54.0" />
+                  <point x="374.5" y="54.0" />
+                  <point x="61.0" y="14.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.PautaSalvarBuscarExcluirDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarExcluirDAO">
+                  <point x="0.0" y="-14.5" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.ComentarioSalvarBuscarDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO">
+                  <point x="0.0" y="-14.5" />
+                  <point x="101.0" y="54.0" />
+                  <point x="252.5" y="54.0" />
+                  <point x="-61.0" y="14.5" />
+                </edge>
+                <edge source="com.mycompany.strategyexperiment.dao.experiment.AtaParticipanteFullDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractFullDAO">
+                  <point x="0.0" y="-14.5" />
+                  <point x="86.5" y="207.0" />
+                  <point x="137.0" y="207.0" />
+                  <point x="-34.0" y="14.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="320.0" y="278.5" />
+              <SelectedNodes>
+                <node>com.mycompany.strategyexperiment.dao.experiment.ComentarioSalvarBuscarDAO</node>
+              </SelectedNodes>
+              <Categories />
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strategyexperiment.iml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/strategyexperiment.iml">
+      <file leaf-file-name="AbstractFullDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/strategyexperiment/dao/experiment/AbstractFullDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            <state relative-caret-position="68">
+              <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -385,8 +212,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -437,12 +262,24 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="strategyexperiment" type="462c0819:PsiDirectoryNode" />
               <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="control" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="strategyexperiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experiment-strategy-pattern-impact-maintainability" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="strategyexperiment" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
               <item name="experiment" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -519,44 +356,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528688098679</updated>
-      <workItem from="1528688104622" duration="649000" />
+      <workItem from="1528688104622" duration="995000" />
+      <workItem from="1528689491161" duration="102000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="649000" />
+    <option name="totallyTimeSpent" value="1097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2920937" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -566,6 +404,54 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/strategyexperiment/dao/experiment/AbstractSalvarBuscarDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/strategyexperiment/dao/experiment/AbstractFullDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/strategyexperiment/dao/experiment/FactoryBuscarSalvarExcluirDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/strategyexperiment/dao/experiment/FactoryBuscarSalvarExcluirDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strategyexperiment.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="63" lean-forward="true" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/strategyexperiment/dao/experiment/AbstractFullDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/strategyexperiment/dao/experiment/AbstractSalvarBuscarDAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -579,281 +465,1333 @@
           <ID>JAVA</ID>
           <OriginalElement>com.mycompany.strategyexperiment</OriginalElement>
           <nodes>
-            <node x="842.0000000000001" y="228.5">com.mycompany.strategyexperiment.model.Orgao</node>
-            <node x="685.0000000000001" y="284.0">com.mycompany.strategyexperiment.model.Anexo</node>
-            <node x="362.0" y="1595.0">com.mycompany.strategyexperiment.dao.experiment.listar.ListarAnexo</node>
-            <node x="1403.0" y="1605.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarAnexo</node>
-            <node x="154.0" y="892.0">com.mycompany.strategyexperiment.dao.experiment.AbstractFullDAO</node>
-            <node x="0.0" y="1244.0">com.mycompany.strategyexperiment.dao.control.DepartamentoDAO</node>
-            <node x="1765.0" y="1713.0">com.mycompany.strategyexperiment.dao.experiment.BuscarSalvarDAOEnum</node>
-            <node x="1185.0" y="1605.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarAtaParticipante</node>
-            <node x="1372.0" y="1910.0">com.mycompany.strategyexperiment.dao.experiment.BuscarSalvarExcluirDAOEnum</node>
-            <node x="1621.0" y="1605.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarPauta</node>
-            <node x="1757.0" y="1060.0">com.mycompany.strategyexperiment.dao.experiment.ComentarioSalvarBuscarDAO</node>
-            <node x="0.0" y="1595.0">com.mycompany.strategyexperiment.dao.experiment.listar.ListarAtaParticipante</node>
-            <node x="354.0" y="1814.0">com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirPauta</node>
-            <node x="952.0" y="1355.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarCampus</node>
-            <node x="1839.0" y="1605.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarComentario</node>
-            <node x="719.0" y="1104.0">com.mycompany.strategyexperiment.dao.experiment.PautaSalvarBuscarExcluirDAO</node>
-            <node x="1513.0" y="1355.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarDepartamento</node>
-            <node x="883.0" y="1713.0">com.mycompany.strategyexperiment.dao.control.ComentarioDAO</node>
-            <node x="183.0" y="1814.0">com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirAnexo</node>
-            <node x="1046.0" y="1910.0">com.mycompany.strategyexperiment.dao.experiment.FactoryFullDao</node>
-            <node x="296.0000000000001" y="250.5">com.mycompany.strategyexperiment.model.Departamento</node>
-            <node x="487.0000000000001" y="295.0">com.mycompany.strategyexperiment.model.ParticipanteReport</node>
-            <node x="2397.0" y="261.5">com.mycompany.strategyexperiment.model.Campus</node>
-            <node x="0.0" y="1148.0">com.mycompany.strategyexperiment.dao.experiment.AnexoFullDAO</node>
-            <node x="550.0" y="1713.0">com.mycompany.strategyexperiment.dao.control.AtaParticipanteDAO</node>
-            <node x="967.0" y="1605.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarCampus</node>
-            <node x="1111.0" y="1060.0">com.mycompany.strategyexperiment.dao.experiment.CampusSalvarBuscarDAO</node>
-            <node x="181.0" y="1494.0">com.mycompany.strategyexperiment.dao.experiment.listar.Listar</node>
-            <node x="1210.0" y="0.0">com.mycompany.strategyexperiment.model.IEntidadeDAO</node>
-            <node x="1462.0" y="892.0">com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO</node>
-            <node x="574.0" y="1910.0">com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarDAO</node>
-            <node x="1980.0" y="1713.0">com.mycompany.strategyexperiment.dao.experiment.FullDaoEnum</node>
-            <node x="183.0" y="1713.0">com.mycompany.strategyexperiment.dao.experiment.excluir.Excluir</node>
-            <node x="1292.0" y="672.0">com.mycompany.strategyexperiment.model.Ata.TipoAta</node>
-            <node x="2101.0" y="1244.0">com.mycompany.strategyexperiment.dao.control.CampusDAO</node>
-            <node x="387.0" y="1355.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarAtaParticipante</node>
-            <node x="2108.0" y="892.0">com.mycompany.strategyexperiment.dao.control.ConnectionDAO</node>
-            <node x="1102.25" y="1244.0">com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar</node>
-            <node x="16.5" y="661.0">com.mycompany.strategyexperiment.model.Comentario.SituacaoComentario</node>
-            <node x="777.0" y="892.0">com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarExcluirDAO</node>
-            <node x="0.0" y="262.0">com.mycompany.strategyexperiment.model.Comentario</node>
-            <node x="323.0" y="1148.0">com.mycompany.strategyexperiment.dao.experiment.AtaParticipanteFullDAO</node>
-            <node x="1223.0" y="1355.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarComentario</node>
-            <node x="1261.0" y="119.0">com.mycompany.strategyexperiment.model.Ata</node>
-            <node x="749.0" y="1605.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarDepartamento</node>
-            <node x="1198.0" y="1713.0">com.mycompany.strategyexperiment.dao.control.AnexoDAO</node>
-            <node x="1816.0" y="1355.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarAnexo</node>
-            <node x="1418.0" y="1060.0">com.mycompany.strategyexperiment.dao.experiment.DepartamentoSalvarBuscarDAO</node>
-            <node x="1520.0" y="207.0">com.mycompany.strategyexperiment.model.AtaReport</node>
-            <node x="1294.0" y="1494.0">com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar</node>
-            <node x="1483.0" y="1713.0">com.mycompany.strategyexperiment.dao.control.PautaDAO</node>
-            <node x="695.0" y="1355.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarPauta</node>
-            <node x="0.0" y="1814.0">com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirAtaParticipante</node>
-            <node x="1082.0" y="306.0">com.mycompany.strategyexperiment.model.OrgaoMembro</node>
-            <node x="1847.0" y="284.0">com.mycompany.strategyexperiment.model.Pauta</node>
-            <node x="2004.0" y="273.0">com.mycompany.strategyexperiment.model.AtaParticipante</node>
-            <node x="0.0" y="1910.0">com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarExcluirDAO</node>
-            <node x="2185.0" y="228.5">com.mycompany.strategyexperiment.model.Usuario</node>
+            <node x="9338.611865942026" y="2198.0">com.mycompany.strategyexperiment.model.Orgao</node>
+            <node x="3943.49756986602" y="879.0">com.mycompany.strategyexperiment.model.Anexo</node>
+            <node x="2953.6910326086954" y="2309.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarAnexo</node>
+            <node x="2373.6910326086954" y="2298.0">com.mycompany.strategyexperiment.dao.experiment.listar.ListarAnexo</node>
+            <node x="1684.24375" y="857.0">com.mycompany.strategyexperiment.dao.experiment.AbstractFullDAO</node>
+            <node x="7667.331865942029" y="2232.0">com.mycompany.strategyexperiment.dao.control.DepartamentoDAO</node>
+            <node x="4622.691032608695" y="2287.0">com.mycompany.strategyexperiment.dao.experiment.BuscarSalvarDAOEnum</node>
+            <node x="3171.6910326086954" y="2309.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarAtaParticipante</node>
+            <node x="420.625" y="2309.0">com.mycompany.strategyexperiment.dao.experiment.BuscarSalvarExcluirDAOEnum</node>
+            <node x="2735.6910326086954" y="2309.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarPauta</node>
+            <node x="4035.6910326086954" y="2309.0">com.mycompany.strategyexperiment.dao.experiment.ComentarioSalvarBuscarDAO</node>
+            <node x="6113.331865942029" y="2298.0">com.mycompany.strategyexperiment.dao.experiment.listar.ListarAtaParticipante</node>
+            <node x="7396.331865942029" y="2298.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarCampus</node>
+            <node x="644.625" y="2309.0">com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirPauta</node>
+            <node x="5895.331865942029" y="2309.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarComentario</node>
+            <node x="53.625" y="2309.0">com.mycompany.strategyexperiment.dao.experiment.PautaSalvarBuscarExcluirDAO</node>
+            <node x="6783.331865942029" y="2298.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarDepartamento</node>
+            <node x="8701.371865942026" y="2265.0">com.mycompany.strategyexperiment.dao.control.ComentarioDAO</node>
+            <node x="1895.7222826086954" y="2309.0">com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirAnexo</node>
+            <node x="2267.9410326086954" y="2951.5">com.mycompany.strategyexperiment.dao.experiment.FactoryFullDao</node>
+            <node x="9708.900615942026" y="305.5">com.mycompany.strategyexperiment.model.ParticipanteReport</node>
+            <node x="7441.95035304024" y="845.5">com.mycompany.strategyexperiment.model.Departamento</node>
+            <node x="7331.144365942029" y="272.0">com.mycompany.strategyexperiment.model.Campus</node>
+            <node x="1260.0562499999996" y="2309.0">com.mycompany.strategyexperiment.dao.experiment.AnexoFullDAO</node>
+            <node x="8991.371865942026" y="2265.0">com.mycompany.strategyexperiment.dao.control.AtaParticipanteDAO</node>
+            <node x="3728.6910326086954" y="2309.0">com.mycompany.strategyexperiment.dao.experiment.CampusSalvarBuscarDAO</node>
+            <node x="5420.331865942029" y="2309.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarCampus</node>
+            <node x="1264.866159215314" y="350.0">com.mycompany.strategyexperiment.dao.experiment.listar.Listar</node>
+            <node x="3691.49756986602" y="901.0">com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO</node>
+            <node x="5461.961229081334" y="0.0">com.mycompany.strategyexperiment.model.IEntidadeDAO</node>
+            <node x="4708.751032608696" y="2951.5">com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarDAO</node>
+            <node x="1583.05625" y="2298.0">com.mycompany.strategyexperiment.dao.experiment.FullDaoEnum</node>
+            <node x="1037.1212290813328" y="350.0">com.mycompany.strategyexperiment.dao.experiment.excluir.Excluir</node>
+            <node x="9688.900615942026" y="2252.5">com.mycompany.strategyexperiment.model.Ata.TipoAta</node>
+            <node x="7086.331865942029" y="2243.0">com.mycompany.strategyexperiment.dao.control.CampusDAO</node>
+            <node x="4285.893403199354" y="856.0">com.mycompany.strategyexperiment.dao.control.ConnectionDAO</node>
+            <node x="6475.331865942029" y="2298.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarAtaParticipante</node>
+            <node x="3649.69756986602" y="350.0">com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar</node>
+            <node x="8826.971032608695" y="282.5">com.mycompany.strategyexperiment.model.Comentario.SituacaoComentario</node>
+            <node x="489.34295937442766" y="879.0">com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarExcluirDAO</node>
+            <node x="889.0562499999996" y="2309.0">com.mycompany.strategyexperiment.dao.experiment.AtaParticipanteFullDAO</node>
+            <node x="8615.571865942027" y="857.0">com.mycompany.strategyexperiment.model.Comentario</node>
+            <node x="8286.33186594203" y="2298.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarComentario</node>
+            <node x="9189.491865942027" y="2731.0">com.mycompany.strategyexperiment.model.Ata</node>
+            <node x="4823.251032608696" y="2309.0">com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarDepartamento</node>
+            <node x="4361.691032608695" y="2298.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarAnexo</node>
+            <node x="3389.6910326086954" y="2309.0">com.mycompany.strategyexperiment.dao.experiment.DepartamentoSalvarBuscarDAO</node>
+            <node x="5160.331865942029" y="2265.0">com.mycompany.strategyexperiment.dao.control.AnexoDAO</node>
+            <node x="9688.900615942026" y="802.0">com.mycompany.strategyexperiment.model.AtaReport</node>
+            <node x="2924.696229081334" y="350.0">com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar</node>
+            <node x="8029.331865942029" y="2265.0">com.mycompany.strategyexperiment.dao.control.PautaDAO</node>
+            <node x="5638.331865942029" y="2298.0">com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarPauta</node>
+            <node x="2066.7222826086954" y="2309.0">com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirAtaParticipante</node>
+            <node x="8232.144173634337" y="294.5">com.mycompany.strategyexperiment.model.Pauta</node>
+            <node x="9470.111865942026" y="901.0">com.mycompany.strategyexperiment.model.OrgaoMembro</node>
+            <node x="9117.700199275361" y="868.0">com.mycompany.strategyexperiment.model.AtaParticipante</node>
+            <node x="356.875" y="2951.5">com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarExcluirDAO</node>
+            <node x="9275.143532608694" y="239.0">com.mycompany.strategyexperiment.model.Usuario</node>
           </nodes>
           <notes />
           <edges>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarExcluirDAO" target="com.mycompany.strategyexperiment.dao.experiment.excluir.Excluir">
+              <point x="-28.875" y="-81.0" />
+              <point x="575.9679593744277" y="582.0" />
+              <point x="1046.5587290813328" y="582.0" />
+              <point x="-66.0625" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Orgao" target="com.mycompany.strategyexperiment.model.Departamento">
+              <point x="-73.33333333333348" y="-136.5" />
+              <point x="9375.278532608692" y="1158.0" />
+              <point x="7580.88785304024" y="1158.0" />
+              <point x="53.4375" y="114.5" />
+            </edge>
             <edge source="com.mycompany.strategyexperiment.model.AtaReport" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
-              <point x="0.0" y="-158.0" />
-              <point x="1673.5" y="89.0" />
-              <point x="1286.25" y="89.0" />
-              <point x="15.25" y="14.5" />
+              <point x="102.33333333333394" y="-158.0" />
+              <point x="9944.73394927536" y="782.0" />
+              <point x="9897.400615942026" y="782.0" />
+              <point x="9897.400615942026" y="49.0" />
+              <point x="5582.054979081334" y="49.0" />
+              <point x="59.09375" y="14.5" />
             </edge>
-            <edge source="com.mycompany.strategyexperiment.dao.experiment.listar.ListarAnexo" target="com.mycompany.strategyexperiment.dao.experiment.listar.Listar">
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.listar.ListarAnexo" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="-136.80000000000018" y="-36.5" />
+              <point x="2407.8910326086952" y="1778.0" />
+              <point x="478.84295937442766" y="1778.0" />
+              <point x="478.84295937442766" y="79.0" />
+              <point x="5463.867479081334" y="79.0" />
+              <point x="-59.09375" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Orgao" target="com.mycompany.strategyexperiment.model.Usuario">
+              <point x="24.444444444444343" y="-136.5" />
+              <point x="9473.05631038647" y="2178.0" />
+              <point x="9459.611865942026" y="2178.0" />
+              <point x="9459.611865942026" y="772.0" />
+              <point x="9383.943532608693" y="772.0" />
+              <point x="12.800000000000182" y="136.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarCampus" target="com.mycompany.strategyexperiment.model.Campus">
               <point x="0.0" y="-36.5" />
-              <point x="533.0" y="1570.0" />
-              <point x="437.5" y="1570.0" />
-              <point x="85.5" y="25.5" />
+              <point x="7521.831865942029" y="1278.0" />
+              <point x="7310.35660304024" y="1278.0" />
+              <point x="7310.35660304024" y="782.0" />
+              <point x="7398.081865942029" y="782.0" />
+              <point x="-9.5625" y="103.5" />
             </edge>
-            <edge source="com.mycompany.strategyexperiment.dao.experiment.AnexoFullDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractFullDAO">
-              <point x="0.0" y="-25.5" />
-              <point x="151.5" y="1123.0" />
-              <point x="239.5" y="1123.0" />
-              <point x="-85.5" y="103.0" />
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarPauta" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="-74.25" y="-25.5" />
+              <point x="2760.4410326086954" y="1758.0" />
+              <point x="1617.366159215314" y="1758.0" />
+              <point x="1617.366159215314" y="109.0" />
+              <point x="5475.304979081334" y="109.0" />
+              <point x="-47.65625" y="14.5" />
             </edge>
-            <edge source="com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirAtaParticipante" target="com.mycompany.strategyexperiment.dao.experiment.excluir.Excluir">
-              <point x="0.0" y="-25.5" />
-              <point x="81.5" y="1789.0" />
-              <point x="208.16666666666666" y="1789.0" />
-              <point x="-50.33333333333334" y="25.5" />
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarDAO" target="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarComentario">
+              <point x="194.090909090909" y="-25.5" />
+              <point x="5116.341941699605" y="2711.0" />
+              <point x="8421.33186594203" y="2711.0" />
+              <point x="0.0" y="36.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarPauta" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="24.75" y="-25.5" />
+              <point x="2859.4410326086954" y="2018.0" />
+              <point x="4330.502098851528" y="2018.0" />
+              <point x="-69.39130434782601" y="104.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarExcluirDAO" target="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarPauta">
+              <point x="220.41666666666697" y="-25.5" />
+              <point x="841.791666666667" y="2651.0" />
+              <point x="5756.831865942029" y="2651.0" />
+              <point x="0.0" y="36.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.AnexoFullDAO" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
+              <point x="121.19999999999982" y="-25.5" />
+              <point x="1532.7562499999995" y="1928.0" />
+              <point x="3622.62881986602" y="1928.0" />
+              <point x="3622.62881986602" y="732.0" />
+              <point x="3718.99756986602" y="732.0" />
+              <point x="-46.19999999999982" y="25.5" />
             </edge>
             <edge source="com.mycompany.strategyexperiment.model.Usuario" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
               <point x="0.0" y="-136.5" />
-              <point x="2281.0" y="59.0" />
-              <point x="1316.75" y="59.0" />
-              <point x="45.75" y="14.5" />
+              <point x="9371.143532608694" y="99.0" />
+              <point x="5562.992479081334" y="99.0" />
+              <point x="40.03125" y="14.5" />
             </edge>
-            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarDepartamento" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
-              <point x="0.0" y="-25.5" />
-              <point x="848.0" y="1565.0" />
-              <point x="1310.5" y="1565.0" />
-              <point x="-82.5" y="25.5" />
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryFullDao" target="com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirAnexo">
+              <point x="-35.125" y="-25.5" />
+              <point x="2373.3160326086954" y="2561.0" />
+              <point x="1971.2222826086954" y="2561.0" />
+              <point x="0.0" y="25.5" />
             </edge>
-            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarComentario" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
-              <point x="0.0" y="-36.5" />
-              <point x="1358.0" y="1335.0" />
-              <point x="1237.0" y="1335.0" />
-              <point x="19.25" y="25.5" />
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarAnexo" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="74.25" y="-25.5" />
+              <point x="3126.9410326086954" y="2028.0" />
+              <point x="4340.415142329788" y="2028.0" />
+              <point x="-59.47826086956502" y="104.0" />
             </edge>
-            <edge source="com.mycompany.strategyexperiment.model.Ata.TipoAta" target="com.mycompany.strategyexperiment.model.Ata">
-              <point x="0.0" y="-82.0" />
-              <point x="0.0" y="246.0" />
-            </edge>
-            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarAtaParticipante" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
-              <point x="0.0" y="-36.5" />
-              <point x="531.0" y="1315.0" />
-              <point x="1121.5" y="1315.0" />
-              <point x="-96.25" y="25.5" />
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
+              <point x="0.0" y="-59.0" />
+              <point x="3806.99756986602" y="782.0" />
+              <point x="3811.3975698660197" y="782.0" />
+              <point x="46.19999999999982" y="25.5" />
             </edge>
             <edge source="com.mycompany.strategyexperiment.model.ParticipanteReport" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
               <point x="0.0" y="-70.0" />
-              <point x="576.0000000000001" y="69.0" />
-              <point x="1235.416666666667" y="69.0" />
-              <point x="-35.58333333333326" y="14.5" />
+              <point x="9797.900615942026" y="59.0" />
+              <point x="5578.242479081334" y="59.0" />
+              <point x="55.28125" y="14.5" />
             </edge>
-            <edge source="com.mycompany.strategyexperiment.model.Comentario" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
-              <point x="0.0" y="-103.0" />
-              <point x="138.0" y="49.0" />
-              <point x="1215.0833333333335" y="49.0" />
-              <point x="-55.91666666666674" y="14.5" />
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.ComentarioSalvarBuscarDAO" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
+              <point x="-102.0" y="-25.5" />
+              <point x="4086.6910326086954" y="1658.0" />
+              <point x="3072.946229081334" y="1658.0" />
+              <point x="3072.946229081334" y="662.0" />
+              <point x="3063.2962290813343" y="662.0" />
+              <point x="39.600000000000364" y="25.5" />
             </edge>
-            <edge source="com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirAnexo" target="com.mycompany.strategyexperiment.dao.experiment.excluir.Excluir">
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.DepartamentoSalvarBuscarDAO" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
+              <point x="-106.33333333333303" y="-25.5" />
+              <point x="3442.8576992753624" y="1698.0" />
+              <point x="3050.946229081334" y="1698.0" />
+              <point x="3050.946229081334" y="682.0" />
+              <point x="3036.896229081334" y="682.0" />
+              <point x="13.199999999999818" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarDepartamento" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="24.75" y="-25.5" />
+              <point x="4947.001032608696" y="1528.0" />
+              <point x="4370.15427276457" y="1528.0" />
+              <point x="-29.739130434782965" y="104.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarDAO" target="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarDepartamento">
               <point x="0.0" y="-25.5" />
               <point x="0.0" y="25.5" />
             </edge>
-            <edge source="com.mycompany.strategyexperiment.dao.experiment.DepartamentoSalvarBuscarDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO">
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarComentario" target="com.mycompany.strategyexperiment.model.Comentario.SituacaoComentario">
+              <point x="112.5" y="-36.5" />
+              <point x="8533.83186594203" y="2108.0" />
+              <point x="9024.121032608695" y="2108.0" />
+              <point x="9024.121032608695" y="712.0" />
+              <point x="8997.071032608696" y="712.0" />
+              <point x="48.600000000000364" y="93.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarAtaParticipante" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="-57.59999999999991" y="-36.5" />
+              <point x="6561.731865942029" y="1348.0" />
+              <point x="4429.632533634136" y="1348.0" />
+              <point x="29.739130434782965" y="104.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarDAO" target="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarDepartamento">
+              <point x="116.45454545454504" y="-25.5" />
+              <point x="5038.705578063241" y="2691.0" />
+              <point x="6924.831865942029" y="2691.0" />
+              <point x="0.0" y="36.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarDAO" target="com.mycompany.strategyexperiment.dao.experiment.DepartamentoSalvarBuscarDAO">
+              <point x="-194.090909090909" y="-25.5" />
+              <point x="4728.160123517787" y="2631.0" />
+              <point x="3549.1910326086954" y="2631.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarAnexo" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="-74.25" y="-25.5" />
+              <point x="2978.4410326086954" y="1738.0" />
+              <point x="1662.74375" y="1738.0" />
+              <point x="1662.74375" y="119.0" />
+              <point x="5479.117479081334" y="119.0" />
+              <point x="-43.84375" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.listar.ListarAnexo" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="136.79999999999995" y="-36.5" />
+              <point x="2681.4910326086956" y="2008.0" />
+              <point x="4320.589055373266" y="2008.0" />
+              <point x="-79.304347826087" y="104.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryFullDao" target="com.mycompany.strategyexperiment.dao.experiment.AtaParticipanteFullDAO">
+              <point x="-128.79166666666674" y="-25.5" />
+              <point x="2279.6493659420285" y="2601.0" />
+              <point x="1064.5562499999996" y="2601.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryFullDao" target="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarAtaParticipante">
+              <point x="128.79166666666674" y="-25.5" />
+              <point x="2537.2326992753624" y="2681.0" />
+              <point x="6619.331865942029" y="2681.0" />
+              <point x="0.0" y="36.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Ata" target="com.mycompany.strategyexperiment.model.Orgao">
+              <point x="28.679999999999836" y="-246.0" />
+              <point x="9337.671865942028" y="2621.0" />
+              <point x="9375.278532608692" y="2621.0" />
+              <point x="-73.33333333333348" y="136.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Ata" target="com.mycompany.strategyexperiment.model.Pauta">
+              <point x="-28.679999999999836" y="-246.0" />
+              <point x="9280.311865942027" y="2491.0" />
+              <point x="8605.071865942027" y="2491.0" />
+              <point x="8605.071865942027" y="722.0" />
+              <point x="8332.259558249722" y="722.0" />
+              <point x="31.615384615384755" y="81.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarComentario" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
+              <point x="-74.25" y="-25.5" />
+              <point x="5920.081865942029" y="1398.0" />
+              <point x="3410.5788198660202" y="1398.0" />
+              <point x="3410.5788198660202" y="632.0" />
+              <point x="3102.896229081334" y="632.0" />
+              <point x="79.19999999999982" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarDepartamento" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="-24.75" y="-25.5" />
+              <point x="4897.501032608696" y="1538.0" />
+              <point x="3431.2288198660203" y="1538.0" />
+              <point x="3431.2288198660203" y="169.0" />
+              <point x="5498.179979081334" y="169.0" />
+              <point x="-24.78125" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryFullDao" target="com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirAtaParticipante">
+              <point x="-11.708333333333485" y="-25.5" />
+              <point x="2396.732699275362" y="2551.0" />
+              <point x="2148.2222826086954" y="2551.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.PautaSalvarBuscarExcluirDAO" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
+              <point x="130.125" y="-25.5" />
+              <point x="357.25" y="1888.0" />
+              <point x="2051.55625" y="1888.0" />
+              <point x="2051.55625" y="712.0" />
+              <point x="3688.19756986602" y="712.0" />
+              <point x="-77.0" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarDAO" target="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarCampus">
+              <point x="38.81818181818198" y="-25.5" />
+              <point x="4961.069214426878" y="2641.0" />
+              <point x="5519.331865942029" y="2641.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.CampusSalvarBuscarDAO" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
               <point x="0.0" y="-25.5" />
-              <point x="0.0" y="59.0" />
+              <point x="3872.1910326086954" y="1678.0" />
+              <point x="3647.99756986602" y="1678.0" />
+              <point x="3647.99756986602" y="752.0" />
+              <point x="3749.7975698660202" y="752.0" />
+              <point x="-15.399999999999636" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarDAO" target="com.mycompany.strategyexperiment.dao.experiment.ComentarioSalvarBuscarDAO">
+              <point x="-116.45454545454504" y="-25.5" />
+              <point x="4805.796487154151" y="2611.0" />
+              <point x="4188.691032608695" y="2611.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarExcluirDAO" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
+              <point x="28.875" y="-81.0" />
+              <point x="633.7179593744277" y="612.0" />
+              <point x="2931.2962290813343" y="612.0" />
+              <point x="-92.39999999999964" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.AbstractFullDAO" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
+              <point x="136.79999999999995" y="-103.0" />
+              <point x="1992.0437499999998" y="702.0" />
+              <point x="3672.7975698660202" y="702.0" />
+              <point x="-92.39999999999964" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarDAO" target="com.mycompany.strategyexperiment.dao.experiment.BuscarSalvarDAOEnum">
+              <point x="-38.81818181818198" y="-25.5" />
+              <point x="4883.432850790514" y="2591.0" />
+              <point x="4707.691032608695" y="2591.0" />
+              <point x="0.0" y="47.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.OrgaoMembro" target="com.mycompany.strategyexperiment.model.Usuario">
+              <point x="-59.625" y="-59.0" />
+              <point x="9489.986865942026" y="762.0" />
+              <point x="9396.743532608694" y="762.0" />
+              <point x="25.59999999999991" y="136.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarCampus" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
+              <point x="-74.25" y="-25.5" />
+              <point x="5445.081865942029" y="1458.0" />
+              <point x="3399.5788198660202" y="1458.0" />
+              <point x="3399.5788198660202" y="642.0" />
+              <point x="3089.696229081334" y="642.0" />
+              <point x="66.0" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarPauta" target="com.mycompany.strategyexperiment.model.Pauta">
+              <point x="47.40000000000009" y="-36.5" />
+              <point x="5804.231865942029" y="2058.0" />
+              <point x="7925.4936222710085" y="2058.0" />
+              <point x="7925.4936222710085" y="772.0" />
+              <point x="8247.951865942028" y="772.0" />
+              <point x="-52.69230769230762" y="81.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarPauta" target="com.mycompany.strategyexperiment.model.Pauta">
+              <point x="74.25" y="-25.5" />
+              <point x="2908.9410326086954" y="2048.0" />
+              <point x="7914.9551607325475" y="2048.0" />
+              <point x="7914.9551607325475" y="762.0" />
+              <point x="8237.413404403567" y="762.0" />
+              <point x="-63.230769230769056" y="81.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarCampus" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
+              <point x="-100.39999999999964" y="-36.5" />
+              <point x="7421.43186594203" y="1298.0" />
+              <point x="4264.393403199354" y="1298.0" />
+              <point x="4264.393403199354" y="752.0" />
+              <point x="3857.5975698660195" y="752.0" />
+              <point x="92.39999999999964" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Comentario" target="com.mycompany.strategyexperiment.model.Comentario.SituacaoComentario">
+              <point x="-13.800000000000182" y="-103.0" />
+              <point x="8739.771865942028" y="692.0" />
+              <point x="8851.271032608694" y="692.0" />
+              <point x="-97.19999999999982" y="93.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.PautaSalvarBuscarExcluirDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarExcluirDAO">
+              <point x="-130.125" y="-25.5" />
+              <point x="97.0" y="1798.0" />
+              <point x="662.5929593744277" y="1798.0" />
+              <point x="57.75" y="81.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.OrgaoMembro" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="59.625" y="-59.0" />
+              <point x="9609.236865942026" y="732.0" />
+              <point x="9477.643532608694" y="732.0" />
+              <point x="9477.643532608694" y="89.0" />
+              <point x="5566.804979081334" y="89.0" />
+              <point x="43.84375" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarAtaParticipante" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="24.75" y="-25.5" />
+              <point x="3295.4410326086954" y="2038.0" />
+              <point x="4350.32818580805" y="2038.0" />
+              <point x="-49.56521739130403" y="104.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.listar.ListarAnexo" target="com.mycompany.strategyexperiment.model.Anexo">
+              <point x="68.39999999999998" y="-36.5" />
+              <point x="2613.0910326086955" y="1958.0" />
+              <point x="3960.62256986602" y="1958.0" />
+              <point x="-51.375" y="81.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.control.AtaParticipanteDAO" target="com.mycompany.strategyexperiment.model.AtaParticipante">
+              <point x="96.0" y="-69.5" />
+              <point x="9231.371865942026" y="2178.0" />
+              <point x="9204.908532608693" y="2178.0" />
+              <point x="6.708333333333485" y="92.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarComentario" target="com.mycompany.strategyexperiment.model.Comentario">
+              <point x="74.25" y="-25.5" />
+              <point x="6068.581865942029" y="2078.0" />
+              <point x="8643.17186594203" y="2078.0" />
+              <point x="-110.39999999999964" y="103.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.AnexoFullDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractFullDAO">
+              <point x="0.0" y="-25.5" />
+              <point x="1411.5562499999996" y="1868.0" />
+              <point x="1855.24375" y="1868.0" />
+              <point x="0.0" y="103.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Pauta" target="com.mycompany.strategyexperiment.model.Ata">
+              <point x="0.0" y="81.0" />
+              <point x="8300.644173634337" y="752.0" />
+              <point x="8576.391865942029" y="752.0" />
+              <point x="8576.391865942029" y="2521.0" />
+              <point x="9251.631865942027" y="2521.0" />
+              <point x="-57.36000000000013" y="-246.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirAtaParticipante" target="com.mycompany.strategyexperiment.dao.experiment.excluir.Excluir">
+              <point x="-40.75" y="-25.5" />
+              <point x="2107.4722826086954" y="1798.0" />
+              <point x="1241.1524790813328" y="1798.0" />
+              <point x="1241.1524790813328" y="572.0" />
+              <point x="1159.8087290813328" y="572.0" />
+              <point x="47.1875" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirPauta" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="37.75" y="-25.5" />
+              <point x="757.875" y="1978.0" />
+              <point x="4290.849924938484" y="1978.0" />
+              <point x="-109.04347826086996" y="104.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarComentario" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
+              <point x="-67.5" y="-36.5" />
+              <point x="8353.83186594203" y="1208.0" />
+              <point x="4587.768403199354" y="1208.0" />
+              <point x="4587.768403199354" y="742.0" />
+              <point x="3872.99756986602" y="742.0" />
+              <point x="107.80000000000018" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarDepartamento" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
+              <point x="-74.25" y="-25.5" />
+              <point x="4848.001032608696" y="1548.0" />
+              <point x="3238.351229081334" y="1548.0" />
+              <point x="3238.351229081334" y="652.0" />
+              <point x="3076.496229081334" y="652.0" />
+              <point x="52.80000000000018" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Ata.TipoAta" target="com.mycompany.strategyexperiment.model.Ata">
+              <point x="59.0" y="82.0" />
+              <point x="9836.400615942026" y="2711.0" />
+              <point x="9423.711865942027" y="2711.0" />
+              <point x="114.7199999999998" y="-246.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarDepartamento" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="-56.600000000000364" y="-36.5" />
+              <point x="6868.231865942029" y="1328.0" />
+              <point x="4439.545577112398" y="1328.0" />
+              <point x="39.65217391304395" y="104.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.PautaSalvarBuscarExcluirDAO" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
+              <point x="43.375" y="-25.5" />
+              <point x="270.5" y="1848.0" />
+              <point x="1673.74375" y="1848.0" />
+              <point x="1673.74375" y="622.0" />
+              <point x="2944.496229081334" y="622.0" />
+              <point x="-79.19999999999982" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarAtaParticipante" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
+              <point x="-115.19999999999982" y="-36.5" />
+              <point x="6504.131865942029" y="1358.0" />
+              <point x="3932.99756986602" y="1358.0" />
+              <point x="3932.99756986602" y="772.0" />
+              <point x="3826.7975698660202" y="772.0" />
+              <point x="61.600000000000364" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryFullDao" target="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarAnexo">
+              <point x="81.95833333333326" y="-25.5" />
+              <point x="2490.3993659420285" y="2641.0" />
+              <point x="4481.691032608695" y="2641.0" />
+              <point x="0.0" y="36.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Comentario" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="-41.399999999999636" y="-103.0" />
+              <point x="8712.17186594203" y="682.0" />
+              <point x="8517.401032608695" y="682.0" />
+              <point x="8517.401032608695" y="119.0" />
+              <point x="5555.367479081334" y="119.0" />
+              <point x="32.40625" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarCampus" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="100.39999999999964" y="-36.5" />
+              <point x="7622.231865942029" y="2038.0" />
+              <point x="7848.45035304024" y="2038.0" />
+              <point x="7848.45035304024" y="149.0" />
+              <point x="5543.929979081334" y="149.0" />
+              <point x="20.96875" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.DepartamentoSalvarBuscarDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO">
+              <point x="106.33333333333303" y="-25.5" />
+              <point x="3655.5243659420285" y="1938.0" />
+              <point x="3720.37256986602" y="1938.0" />
+              <point x="-86.625" y="59.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryFullDao" target="com.mycompany.strategyexperiment.dao.experiment.listar.ListarAtaParticipante">
+              <point x="105.375" y="-25.5" />
+              <point x="2513.8160326086954" y="2671.0" />
+              <point x="6284.331865942029" y="2671.0" />
+              <point x="0.0" y="36.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.control.PautaDAO" target="com.mycompany.strategyexperiment.model.Pauta">
+              <point x="0.0" y="-69.5" />
+              <point x="8147.831865942029" y="2058.0" />
+              <point x="8346.562635172799" y="2058.0" />
+              <point x="8346.562635172799" y="782.0" />
+              <point x="8269.028789018952" y="782.0" />
+              <point x="-31.615384615384755" y="81.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.control.CampusDAO" target="com.mycompany.strategyexperiment.model.Campus">
+              <point x="0.0" y="-91.5" />
+              <point x="7231.331865942029" y="1308.0" />
+              <point x="7137.38785304024" y="1308.0" />
+              <point x="7137.38785304024" y="762.0" />
+              <point x="7359.831865942029" y="762.0" />
+              <point x="-47.8125" y="103.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.AtaParticipante" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="-60.375" y="-92.0" />
+              <point x="9137.825199275361" y="712.0" />
+              <point x="9212.726865942028" y="712.0" />
+              <point x="9212.726865942028" y="109.0" />
+              <point x="5559.179979081334" y="109.0" />
+              <point x="36.21875" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.AbstractFullDAO" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
+              <point x="68.40000000000009" y="-103.0" />
+              <point x="1923.6437500000002" y="632.0" />
+              <point x="2957.696229081334" y="632.0" />
+              <point x="-66.0" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="77.0" y="-59.0" />
+              <point x="3883.99756986602" y="782.0" />
+              <point x="3946.09131986602" y="782.0" />
+              <point x="3946.09131986602" y="189.0" />
+              <point x="5505.804979081334" y="189.0" />
+              <point x="-17.15625" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Orgao" target="com.mycompany.strategyexperiment.model.OrgaoMembro">
+              <point x="73.33333333333348" y="-136.5" />
+              <point x="9521.94519927536" y="2168.0" />
+              <point x="9589.361865942026" y="2168.0" />
+              <point x="39.75" y="59.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarComentario" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="-22.5" y="-36.5" />
+              <point x="8398.83186594203" y="1198.0" />
+              <point x="7852.26285304024" y="1198.0" />
+              <point x="7852.26285304024" y="139.0" />
+              <point x="5547.742479081334" y="139.0" />
+              <point x="24.78125" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Ata" target="com.mycompany.strategyexperiment.model.Usuario">
+              <point x="76.48000000000002" y="-246.0" />
+              <point x="9385.471865942027" y="2671.0" />
+              <point x="9658.731865942027" y="2671.0" />
+              <point x="9658.731865942027" y="702.0" />
+              <point x="9460.743532608694" y="702.0" />
+              <point x="89.60000000000036" y="136.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarAtaParticipante" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="0.0" y="-36.5" />
+              <point x="6619.331865942029" y="189.0" />
+              <point x="5528.679979081334" y="189.0" />
+              <point x="5.71875" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Departamento" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="64.125" y="-114.5" />
+              <point x="7591.57535304024" y="782.0" />
+              <point x="7611.24344182401" y="782.0" />
+              <point x="7611.24344182401" y="159.0" />
+              <point x="5540.117479081334" y="159.0" />
+              <point x="17.15625" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirAnexo" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="37.75" y="-25.5" />
+              <point x="2008.9722826086954" y="1988.0" />
+              <point x="4300.762968416744" y="1988.0" />
+              <point x="-99.13043478260897" y="104.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.PautaSalvarBuscarExcluirDAO" target="com.mycompany.strategyexperiment.dao.experiment.excluir.Excluir">
+              <point x="-43.375" y="-25.5" />
+              <point x="183.75" y="1808.0" />
+              <point x="730.8429593744277" y="1808.0" />
+              <point x="730.8429593744277" y="592.0" />
+              <point x="1065.4337290813328" y="592.0" />
+              <point x="-47.1875" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarDepartamento" target="com.mycompany.strategyexperiment.model.Departamento">
+              <point x="74.25" y="-25.5" />
+              <point x="4996.501032608696" y="2018.0" />
+              <point x="7452.63785304024" y="2018.0" />
+              <point x="-74.8125" y="114.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarDepartamento" target="com.mycompany.strategyexperiment.model.Departamento">
+              <point x="56.600000000000364" y="-36.5" />
+              <point x="6981.43186594203" y="2028.0" />
+              <point x="7474.01285304024" y="2028.0" />
+              <point x="-53.4375" y="114.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirPauta" target="com.mycompany.strategyexperiment.dao.experiment.excluir.Excluir">
+              <point x="-37.75" y="-25.5" />
+              <point x="682.375" y="1818.0" />
+              <point x="985.6554593744277" y="1818.0" />
+              <point x="985.6554593744277" y="602.0" />
+              <point x="1084.3087290813328" y="602.0" />
+              <point x="-28.3125" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.control.ComentarioDAO" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="-101.25" y="-69.5" />
+              <point x="8735.121865942026" y="1188.0" />
+              <point x="4499.023837981962" y="1188.0" />
+              <point x="99.13043478260897" y="104.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Orgao" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="97.77777777777737" y="-136.5" />
+              <point x="9546.389643719804" y="2178.0" />
+              <point x="9674.588115942026" y="2178.0" />
+              <point x="9674.588115942026" y="79.0" />
+              <point x="5570.617479081334" y="79.0" />
+              <point x="47.65625" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.AbstractFullDAO" target="com.mycompany.strategyexperiment.dao.experiment.excluir.Excluir">
+              <point x="-136.79999999999995" y="-103.0" />
+              <point x="1718.4437500000004" y="562.0" />
+              <point x="1178.6837290813328" y="562.0" />
+              <point x="66.0625" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.CampusSalvarBuscarDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO">
+              <point x="95.66666666666697" y="-25.5" />
+              <point x="3967.8576992753624" y="1668.0" />
+              <point x="3778.12256986602" y="1668.0" />
+              <point x="-28.875" y="59.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarExcluirDAO" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
+              <point x="86.625" y="-81.0" />
+              <point x="691.4679593744277" y="692.0" />
+              <point x="3657.3975698660197" y="692.0" />
+              <point x="-107.80000000000018" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarComentario" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="24.75" y="-25.5" />
+              <point x="6019.081865942029" y="209.0" />
+              <point x="5521.054979081334" y="209.0" />
+              <point x="-1.90625" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarDAO" target="com.mycompany.strategyexperiment.dao.experiment.CampusSalvarBuscarDAO">
+              <point x="-155.27272727272702" y="-25.5" />
+              <point x="4766.978305335969" y="2621.0" />
+              <point x="3872.1910326086954" y="2621.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarAtaParticipante" target="com.mycompany.strategyexperiment.model.AtaParticipante">
+              <point x="115.19999999999982" y="-36.5" />
+              <point x="6734.531865942029" y="2168.0" />
+              <point x="9178.075199275361" y="2168.0" />
+              <point x="-20.125" y="92.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.listar.ListarAnexo" target="com.mycompany.strategyexperiment.dao.experiment.listar.Listar">
+              <point x="-68.40000000000009" y="-36.5" />
+              <point x="2476.2910326086953" y="1768.0" />
+              <point x="1379.1212290813332" y="1768.0" />
+              <point x="1379.1212290813332" y="602.0" />
+              <point x="1435.866159215314" y="602.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarExcluirDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarExcluirDAO">
+              <point x="-220.41666666666697" y="-25.5" />
+              <point x="400.95833333333303" y="2711.0" />
+              <point x="0.0" y="2711.0" />
+              <point x="0.0" y="1788.0" />
+              <point x="547.0929593744277" y="1788.0" />
+              <point x="-57.75" y="81.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.AnexoFullDAO" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
+              <point x="60.59999999999991" y="-25.5" />
+              <point x="1472.1562499999995" y="1908.0" />
+              <point x="2310.69881986602" y="1908.0" />
+              <point x="2310.69881986602" y="652.0" />
+              <point x="2984.0962290813336" y="652.0" />
+              <point x="-39.600000000000364" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarExcluirDAO" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="-86.625" y="-81.0" />
+              <point x="518.2179593744277" y="572.0" />
+              <point x="872.4962290813328" y="572.0" />
+              <point x="872.4962290813328" y="89.0" />
+              <point x="5467.679979081334" y="89.0" />
+              <point x="-55.28125" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.listar.Listar" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="0.0" y="-25.5" />
+              <point x="1435.866159215314" y="99.0" />
+              <point x="5471.492479081334" y="99.0" />
+              <point x="-51.46875" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.control.PautaDAO" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="-79.0" y="-69.5" />
+              <point x="8068.831865942029" y="1228.0" />
+              <point x="4479.19775102544" y="1228.0" />
+              <point x="79.304347826087" y="104.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryFullDao" target="com.mycompany.strategyexperiment.dao.experiment.FullDaoEnum">
+              <point x="-81.95833333333348" y="-25.5" />
+              <point x="2326.482699275362" y="2581.0" />
+              <point x="1642.55625" y="2581.0" />
+              <point x="0.0" y="36.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
+              <point x="-77.0" y="-59.0" />
+              <point x="3729.99756986602" y="532.0" />
+              <point x="3116.0962290813336" y="532.0" />
+              <point x="92.39999999999964" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarDAO" target="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarComentario">
+              <point x="77.63636363636397" y="-25.5" />
+              <point x="4999.88739624506" y="2661.0" />
+              <point x="5994.331865942029" y="2661.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.AtaParticipante" target="com.mycompany.strategyexperiment.model.Usuario">
+              <point x="60.375" y="-92.0" />
+              <point x="9258.575199275361" y="772.0" />
+              <point x="9345.543532608694" y="772.0" />
+              <point x="-25.59999999999991" y="136.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarCampus" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="24.75" y="-25.5" />
+              <point x="5544.081865942029" y="1438.0" />
+              <point x="4389.980359721092" y="1438.0" />
+              <point x="-9.913043478260988" y="104.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Ata" target="com.mycompany.strategyexperiment.model.Anexo">
+              <point x="-86.03999999999996" y="-246.0" />
+              <point x="9222.951865942028" y="2551.0" />
+              <point x="5140.27186594203" y="2551.0" />
+              <point x="5140.27186594203" y="1508.0" />
+              <point x="4040.5392365326866" y="1508.0" />
+              <point x="28.541666666666515" y="81.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarComentario" target="com.mycompany.strategyexperiment.model.Comentario">
+              <point x="67.5" y="-36.5" />
+              <point x="8488.83186594203" y="2098.0" />
+              <point x="8753.571865942027" y="2098.0" />
+              <point x="0.0" y="103.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.listar.ListarAtaParticipante" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="-68.40000000000009" y="-36.5" />
+              <point x="6215.93186594203" y="1368.0" />
+              <point x="4419.719490155876" y="1368.0" />
+              <point x="19.826086956521976" y="104.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirAnexo" target="com.mycompany.strategyexperiment.dao.experiment.excluir.Excluir">
+              <point x="-37.75" y="-25.5" />
+              <point x="1933.4722826086954" y="1808.0" />
+              <point x="1202.0300698660194" y="1808.0" />
+              <point x="1202.0300698660194" y="582.0" />
+              <point x="1140.9337290813328" y="582.0" />
+              <point x="28.3125" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.DepartamentoSalvarBuscarDAO" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
+              <point x="0.0" y="-25.5" />
+              <point x="3549.1910326086954" y="1938.0" />
+              <point x="3636.99756986602" y="1938.0" />
+              <point x="3636.99756986602" y="742.0" />
+              <point x="3734.3975698660197" y="742.0" />
+              <point x="-30.800000000000182" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarComentario" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="-112.5" y="-36.5" />
+              <point x="8308.83186594203" y="1218.0" />
+              <point x="4489.110794503702" y="1218.0" />
+              <point x="89.21739130434798" y="104.0" />
             </edge>
             <edge source="com.mycompany.strategyexperiment.dao.experiment.AtaParticipanteFullDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractFullDAO">
               <point x="0.0" y="-25.5" />
-              <point x="498.5" y="1123.0" />
-              <point x="410.5" y="1123.0" />
-              <point x="85.5" y="103.0" />
-            </edge>
-            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarComentario" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
-              <point x="0.0" y="-25.5" />
-              <point x="1938.0" y="1565.0" />
-              <point x="1475.5" y="1565.0" />
-              <point x="82.5" y="25.5" />
+              <point x="1064.5562499999996" y="1858.0" />
+              <point x="1741.24375" y="1858.0" />
+              <point x="-114.0" y="103.0" />
             </edge>
             <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarDepartamento" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
-              <point x="0.0" y="-36.5" />
-              <point x="1654.5" y="1325.0" />
-              <point x="1275.5" y="1325.0" />
-              <point x="57.75" y="25.5" />
+              <point x="-113.19999999999982" y="-36.5" />
+              <point x="6811.631865942029" y="1338.0" />
+              <point x="4253.393403199354" y="1338.0" />
+              <point x="4253.393403199354" y="762.0" />
+              <point x="3842.19756986602" y="762.0" />
+              <point x="77.0" y="25.5" />
             </edge>
-            <edge source="com.mycompany.strategyexperiment.dao.experiment.listar.ListarAtaParticipante" target="com.mycompany.strategyexperiment.dao.experiment.listar.Listar">
-              <point x="0.0" y="-36.5" />
-              <point x="171.0" y="1570.0" />
-              <point x="266.5" y="1570.0" />
-              <point x="-85.5" y="25.5" />
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.AnexoFullDAO" target="com.mycompany.strategyexperiment.dao.experiment.listar.Listar">
+              <point x="-60.59999999999991" y="-25.5" />
+              <point x="1350.9562499999997" y="1818.0" />
+              <point x="1263.1524790813328" y="1818.0" />
+              <point x="1263.1524790813328" y="602.0" />
+              <point x="1367.4661592153138" y="602.0" />
+              <point x="-68.40000000000009" y="25.5" />
             </edge>
-            <edge source="com.mycompany.strategyexperiment.model.AtaParticipante" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
-              <point x="0.0" y="-92.0" />
-              <point x="2084.5" y="69.0" />
-              <point x="1306.5833333333335" y="69.0" />
-              <point x="35.58333333333326" y="14.5" />
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.listar.ListarAtaParticipante" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="0.0" y="-36.5" />
+              <point x="6284.331865942029" y="199.0" />
+              <point x="5524.867479081334" y="199.0" />
+              <point x="1.90625" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="0.0" y="-25.5" />
+              <point x="3023.696229081334" y="159.0" />
+              <point x="5494.367479081334" y="159.0" />
+              <point x="-28.59375" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.AtaParticipanteFullDAO" target="com.mycompany.strategyexperiment.dao.experiment.excluir.Excluir">
+              <point x="-140.39999999999964" y="-25.5" />
+              <point x="924.15625" y="1828.0" />
+              <point x="1179.375" y="1828.0" />
+              <point x="1179.375" y="602.0" />
+              <point x="1103.1837290813328" y="602.0" />
+              <point x="-9.4375" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarAnexo" target="com.mycompany.strategyexperiment.model.Anexo">
+              <point x="48.0" y="-36.5" />
+              <point x="4529.691032608695" y="1598.0" />
+              <point x="3994.87256986602" y="1598.0" />
+              <point x="-17.125" y="81.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Comentario" target="com.mycompany.strategyexperiment.model.Usuario">
+              <point x="96.60000000000036" y="-103.0" />
+              <point x="8850.17186594203" y="732.0" />
+              <point x="9294.343532608695" y="732.0" />
+              <point x="-76.80000000000018" y="136.5" />
             </edge>
             <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarAtaParticipante" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
-              <point x="0.0" y="-25.5" />
-              <point x="1284.0" y="1585.0" />
-              <point x="1376.5" y="1585.0" />
-              <point x="-16.5" y="25.5" />
+              <point x="-24.75" y="-25.5" />
+              <point x="3245.9410326086954" y="1708.0" />
+              <point x="2550.69881986602" y="1708.0" />
+              <point x="2550.69881986602" y="682.0" />
+              <point x="3023.696229081334" y="682.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Comentario" target="com.mycompany.strategyexperiment.model.Pauta">
+              <point x="-124.19999999999982" y="-103.0" />
+              <point x="8629.371865942028" y="712.0" />
+              <point x="8342.798019788183" y="712.0" />
+              <point x="42.15384615384619" y="81.0" />
             </edge>
             <edge source="com.mycompany.strategyexperiment.model.Pauta" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
               <point x="0.0" y="-81.0" />
-              <point x="1915.5" y="79.0" />
-              <point x="1296.4166666666665" y="79.0" />
-              <point x="25.416666666666515" y="14.5" />
-            </edge>
-            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarPauta" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
-              <point x="0.0" y="-36.5" />
-              <point x="813.5" y="1325.0" />
-              <point x="1160.0" y="1325.0" />
-              <point x="-57.75" y="25.5" />
+              <point x="8300.644173634337" y="129.0" />
+              <point x="5551.554979081334" y="129.0" />
+              <point x="28.59375" y="14.5" />
             </edge>
             <edge source="com.mycompany.strategyexperiment.dao.experiment.ComentarioSalvarBuscarDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO">
-              <point x="0.0" y="-25.5" />
-              <point x="1910.0" y="1035.0" />
-              <point x="1654.5" y="1035.0" />
-              <point x="77.0" y="59.0" />
+              <point x="102.0" y="-25.5" />
+              <point x="4290.691032608695" y="1638.0" />
+              <point x="3835.87256986602" y="1638.0" />
+              <point x="28.875" y="59.0" />
             </edge>
-            <edge source="com.mycompany.strategyexperiment.model.Departamento" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
-              <point x="0.0" y="-114.5" />
-              <point x="381.5000000000001" y="59.0" />
-              <point x="1225.25" y="59.0" />
-              <point x="-45.75" y="14.5" />
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO">
+              <point x="-77.63636363636397" y="-25.5" />
+              <point x="4844.614668972332" y="2601.0" />
+              <point x="4612.191032608695" y="2601.0" />
+              <point x="4612.191032608695" y="1578.0" />
+              <point x="3893.62256986602" y="1578.0" />
+              <point x="86.625" y="59.0" />
             </edge>
             <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarPauta" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
-              <point x="0.0" y="-25.5" />
-              <point x="1720.0" y="1575.0" />
-              <point x="1442.5" y="1575.0" />
-              <point x="49.5" y="25.5" />
+              <point x="-24.75" y="-25.5" />
+              <point x="2809.9410326086954" y="1748.0" />
+              <point x="2321.69881986602" y="1748.0" />
+              <point x="2321.69881986602" y="662.0" />
+              <point x="2997.2962290813343" y="662.0" />
+              <point x="-26.399999999999636" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.AtaParticipanteFullDAO" target="com.mycompany.strategyexperiment.dao.experiment.listar.Listar">
+              <point x="-70.19999999999982" y="-25.5" />
+              <point x="994.3562499999998" y="1838.0" />
+              <point x="1252.1524790813328" y="1838.0" />
+              <point x="1252.1524790813328" y="592.0" />
+              <point x="1299.0661592153137" y="592.0" />
+              <point x="-136.80000000000018" y="25.5" />
             </edge>
             <edge source="com.mycompany.strategyexperiment.model.Anexo" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
               <point x="0.0" y="-81.0" />
-              <point x="753.5000000000001" y="79.0" />
-              <point x="1245.5833333333335" y="79.0" />
-              <point x="-25.416666666666742" y="14.5" />
+              <point x="4011.99756986602" y="199.0" />
+              <point x="5509.617479081334" y="199.0" />
+              <point x="-13.34375" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarCampus" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="-24.75" y="-25.5" />
+              <point x="5494.581865942029" y="1448.0" />
+              <point x="4190.018403199354" y="1448.0" />
+              <point x="4190.018403199354" y="209.0" />
+              <point x="5513.429979081334" y="209.0" />
+              <point x="-9.53125" y="14.5" />
             </edge>
             <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarAnexo" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
+              <point x="-24.75" y="-25.5" />
+              <point x="3027.9410326086954" y="1728.0" />
+              <point x="2436.19881986602" y="1728.0" />
+              <point x="2436.19881986602" y="672.0" />
+              <point x="3010.496229081334" y="672.0" />
+              <point x="-13.199999999999818" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarDAO" target="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarCampus">
+              <point x="155.27272727272702" y="-25.5" />
+              <point x="5077.523759881423" y="2701.0" />
+              <point x="7521.831865942029" y="2701.0" />
+              <point x="0.0" y="36.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarExcluirDAO" target="com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirPauta">
+              <point x="44.08333333333303" y="-25.5" />
+              <point x="665.458333333333" y="2711.0" />
+              <point x="720.125" y="2711.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Anexo" target="com.mycompany.strategyexperiment.model.Ata">
+              <point x="5.7083333333332575" y="81.0" />
+              <point x="4017.705903199353" y="1558.0" />
+              <point x="4812.751032608696" y="1558.0" />
+              <point x="4812.751032608696" y="2571.0" />
+              <point x="9203.831865942027" y="2571.0" />
+              <point x="-105.15999999999985" y="-246.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.control.AnexoDAO" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="80.0" y="-69.5" />
+              <point x="5360.331865942029" y="1468.0" />
+              <point x="4380.067316242832" y="1468.0" />
+              <point x="-19.826086956521976" y="104.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.control.DepartamentoDAO" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="-114.0" y="-102.5" />
+              <point x="7724.331865942029" y="1258.0" />
+              <point x="4469.28470754718" y="1258.0" />
+              <point x="69.39130434782601" y="104.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.AnexoFullDAO" target="com.mycompany.strategyexperiment.dao.experiment.excluir.Excluir">
+              <point x="-121.19999999999982" y="-25.5" />
+              <point x="1290.3562499999998" y="1828.0" />
+              <point x="1190.375" y="1828.0" />
+              <point x="1190.375" y="592.0" />
+              <point x="1122.0587290813328" y="592.0" />
+              <point x="9.4375" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarAnexo" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="96.0" y="-36.5" />
+              <point x="4577.691032608695" y="1588.0" />
+              <point x="4360.24122928631" y="1588.0" />
+              <point x="-39.65217391304304" y="104.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarExcluirDAO" target="com.mycompany.strategyexperiment.dao.experiment.PautaSalvarBuscarExcluirDAO">
+              <point x="-132.25" y="-25.5" />
+              <point x="489.125" y="2701.0" />
+              <point x="227.125" y="2701.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryFullDao" target="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarAnexo">
+              <point x="35.125" y="-25.5" />
+              <point x="2443.5660326086954" y="2621.0" />
+              <point x="3052.6910326086954" y="2621.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryFullDao" target="com.mycompany.strategyexperiment.dao.experiment.listar.ListarAnexo">
+              <point x="11.708333333333258" y="-25.5" />
+              <point x="2420.1493659420285" y="2601.0" />
+              <point x="2544.6910326086954" y="2601.0" />
+              <point x="0.0" y="36.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.AtaParticipanteFullDAO" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
+              <point x="70.19999999999982" y="-25.5" />
+              <point x="1134.7562499999995" y="1898.0" />
+              <point x="2299.69881986602" y="1898.0" />
+              <point x="2299.69881986602" y="642.0" />
+              <point x="2970.896229081334" y="642.0" />
+              <point x="-52.80000000000018" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
               <point x="0.0" y="-25.5" />
-              <point x="1502.0" y="1585.0" />
-              <point x="1409.5" y="1585.0" />
-              <point x="16.5" y="25.5" />
+              <point x="3765.19756986602" y="179.0" />
+              <point x="5501.992479081334" y="179.0" />
+              <point x="-20.96875" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirAtaParticipante" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="40.75" y="-25.5" />
+              <point x="2188.9722826086954" y="1998.0" />
+              <point x="4310.676011895006" y="1998.0" />
+              <point x="-89.21739130434798" y="104.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarDepartamento" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="0.0" y="-36.5" />
+              <point x="6924.831865942029" y="179.0" />
+              <point x="5532.492479081334" y="179.0" />
+              <point x="9.53125" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.AtaReport" target="com.mycompany.strategyexperiment.model.ParticipanteReport">
+              <point x="-102.33333333333394" y="-158.0" />
+              <point x="9740.067282608692" y="782.0" />
+              <point x="9753.400615942026" y="782.0" />
+              <point x="-44.5" y="70.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarAnexo" target="com.mycompany.strategyexperiment.model.Anexo">
+              <point x="24.75" y="-25.5" />
+              <point x="3077.4410326086954" y="1968.0" />
+              <point x="3972.0392365326866" y="1968.0" />
+              <point x="-39.95833333333337" y="81.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.listar.ListarAtaParticipante" target="com.mycompany.strategyexperiment.model.AtaParticipante">
+              <point x="68.40000000000009" y="-36.5" />
+              <point x="6352.731865942029" y="2138.0" />
+              <point x="9137.825199275361" y="2138.0" />
+              <point x="-60.375" y="92.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarAtaParticipante" target="com.mycompany.strategyexperiment.model.AtaParticipante">
+              <point x="74.25" y="-25.5" />
+              <point x="3344.9410326086954" y="2128.0" />
+              <point x="9124.408532608693" y="2128.0" />
+              <point x="-73.79166666666652" y="92.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarComentario" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="-24.75" y="-25.5" />
+              <point x="5969.581865942029" y="1388.0" />
+              <point x="4409.806446677614" y="1388.0" />
+              <point x="9.913043478260988" y="104.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarPauta" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="0.0" y="-36.5" />
+              <point x="5756.831865942029" y="1408.0" />
+              <point x="4399.893403199354" y="1408.0" />
+              <point x="0.0" y="104.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.AtaParticipante" target="com.mycompany.strategyexperiment.model.Ata">
+              <point x="60.375" y="92.0" />
+              <point x="9258.575199275361" y="2138.0" />
+              <point x="9318.551865942027" y="2138.0" />
+              <point x="9.559999999999945" y="-246.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.control.AtaParticipanteDAO" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="-96.0" y="-69.5" />
+              <point x="9039.371865942026" y="1178.0" />
+              <point x="4508.936881460224" y="1178.0" />
+              <point x="109.04347826086996" y="104.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryFullDao" target="com.mycompany.strategyexperiment.dao.experiment.AbstractFullDAO">
+              <point x="-58.54166666666697" y="-25.5" />
+              <point x="2349.8993659420285" y="2571.0" />
+              <point x="1712.55625" y="2571.0" />
+              <point x="1712.55625" y="1878.0" />
+              <point x="1969.24375" y="1878.0" />
+              <point x="114.0" y="103.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.AbstractFullDAO" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="0.0" y="-103.0" />
+              <point x="1855.24375" y="129.0" />
+              <point x="5482.929979081334" y="129.0" />
+              <point x="-40.03125" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Ata" target="com.mycompany.strategyexperiment.model.AtaParticipante">
+              <point x="-9.559999999999945" y="-246.0" />
+              <point x="9299.431865942028" y="2158.0" />
+              <point x="9231.741865942027" y="2158.0" />
+              <point x="33.541666666666515" y="92.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.control.DepartamentoDAO" target="com.mycompany.strategyexperiment.model.Departamento">
+              <point x="0.0" y="-102.5" />
+              <point x="7838.331865942029" y="1248.0" />
+              <point x="7516.76285304024" y="1248.0" />
+              <point x="-10.6875" y="114.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarPauta" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="-47.40000000000009" y="-36.5" />
+              <point x="5709.43186594203" y="1418.0" />
+              <point x="4275.393403199354" y="1418.0" />
+              <point x="4275.393403199354" y="219.0" />
+              <point x="5517.242479081334" y="219.0" />
+              <point x="-5.71875" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarAtaParticipante" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="-74.25" y="-25.5" />
+              <point x="3196.4410326086954" y="1718.0" />
+              <point x="2036.74375" y="1718.0" />
+              <point x="2036.74375" y="139.0" />
+              <point x="5486.742479081334" y="139.0" />
+              <point x="-36.21875" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Departamento" target="com.mycompany.strategyexperiment.model.Campus">
+              <point x="-21.375" y="-114.5" />
+              <point x="7506.07535304024" y="762.0" />
+              <point x="7455.456865942029" y="762.0" />
+              <point x="47.8125" y="103.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.control.AnexoDAO" target="com.mycompany.strategyexperiment.model.Anexo">
+              <point x="0.0" y="-69.5" />
+              <point x="5280.331865942029" y="1478.0" />
+              <point x="4074.7892365326866" y="1478.0" />
+              <point x="62.79166666666663" y="81.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.AbstractFullDAO" target="com.mycompany.strategyexperiment.dao.experiment.listar.Listar">
+              <point x="-68.40000000000009" y="-103.0" />
+              <point x="1786.84375" y="552.0" />
+              <point x="1504.266159215314" y="552.0" />
+              <point x="68.40000000000009" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.listar.ListarAtaParticipante" target="com.mycompany.strategyexperiment.dao.experiment.listar.Listar">
+              <point x="-136.80000000000018" y="-36.5" />
+              <point x="6147.531865942029" y="1378.0" />
+              <point x="3442.2288198660203" y="1378.0" />
+              <point x="3442.2288198660203" y="542.0" />
+              <point x="1572.666159215314" y="542.0" />
+              <point x="136.80000000000018" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.model.Ata" target="com.mycompany.strategyexperiment.model.Ata.TipoAta">
+              <point x="105.15999999999985" y="-246.0" />
+              <point x="9414.151865942027" y="2701.0" />
+              <point x="9777.400615942026" y="2701.0" />
+              <point x="0.0" y="82.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarCampus" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="-50.20000000000073" y="-36.5" />
+              <point x="7471.6318659420285" y="1288.0" />
+              <point x="4459.371664068918" y="1288.0" />
+              <point x="59.47826086956502" y="104.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.ComentarioSalvarBuscarDAO" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
+              <point x="0.0" y="-25.5" />
+              <point x="4188.691032608695" y="1648.0" />
+              <point x="3658.99756986602" y="1648.0" />
+              <point x="3658.99756986602" y="762.0" />
+              <point x="3765.19756986602" y="762.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryFullDao" target="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarAtaParticipante">
+              <point x="58.54166666666674" y="-25.5" />
+              <point x="2466.9826992753624" y="2631.0" />
+              <point x="3270.6910326086954" y="2631.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.CampusSalvarBuscarDAO" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
+              <point x="-95.66666666666697" y="-25.5" />
+              <point x="3776.5243659420285" y="1688.0" />
+              <point x="3061.946229081334" y="1688.0" />
+              <point x="3061.946229081334" y="672.0" />
+              <point x="3050.0962290813336" y="672.0" />
+              <point x="26.399999999999636" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarAnexo" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
+              <point x="-96.0" y="-36.5" />
+              <point x="4385.691032608695" y="1628.0" />
+              <point x="2040.55625" y="1628.0" />
+              <point x="2040.55625" y="149.0" />
+              <point x="5490.554979081334" y="149.0" />
+              <point x="-32.40625" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarExcluirDAO" target="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarPauta">
+              <point x="132.25" y="-25.5" />
+              <point x="753.625" y="2611.0" />
+              <point x="2834.6910326086954" y="2611.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarPauta" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
+              <point x="-94.80000000000018" y="-36.5" />
+              <point x="5662.031865942029" y="1428.0" />
+              <point x="3680.99756986602" y="1428.0" />
+              <point x="3680.99756986602" y="782.0" />
+              <point x="3795.99756986602" y="782.0" />
+              <point x="30.800000000000182" y="25.5" />
             </edge>
             <edge source="com.mycompany.strategyexperiment.model.Campus" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
               <point x="0.0" y="-103.5" />
-              <point x="2473.5" y="49.0" />
-              <point x="1326.9166666666665" y="49.0" />
-              <point x="55.916666666666515" y="14.5" />
+              <point x="7407.644365942029" y="169.0" />
+              <point x="5536.304979081334" y="169.0" />
+              <point x="13.34375" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarCampus" target="com.mycompany.strategyexperiment.model.Campus">
+              <point x="74.25" y="-25.5" />
+              <point x="5593.581865942029" y="2008.0" />
+              <point x="7082.613115942029" y="2008.0" />
+              <point x="7082.613115942029" y="752.0" />
+              <point x="7340.706865942029" y="752.0" />
+              <point x="-66.9375" y="103.5" />
             </edge>
             <edge source="com.mycompany.strategyexperiment.model.Ata" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
-              <point x="0.0" y="-246.0" />
-              <point x="1380.5" y="99.0" />
-              <point x="1276.0833333333335" y="99.0" />
-              <point x="5.0833333333332575" y="14.5" />
+              <point x="86.03999999999996" y="-246.0" />
+              <point x="9395.031865942026" y="2681.0" />
+              <point x="9678.400615942026" y="2681.0" />
+              <point x="9678.400615942026" y="69.0" />
+              <point x="5574.429979081334" y="69.0" />
+              <point x="51.46875" y="14.5" />
             </edge>
-            <edge source="com.mycompany.strategyexperiment.dao.experiment.salvar.SalvarCampus" target="com.mycompany.strategyexperiment.dao.experiment.salvar.Salvar">
-              <point x="0.0" y="-25.5" />
-              <point x="1066.0" y="1575.0" />
-              <point x="1343.5" y="1575.0" />
-              <point x="-49.5" y="25.5" />
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryFullDao" target="com.mycompany.strategyexperiment.dao.experiment.AnexoFullDAO">
+              <point x="-105.375" y="-25.5" />
+              <point x="2303.0660326086954" y="2591.0" />
+              <point x="1411.5562499999996" y="2591.0" />
+              <point x="0.0" y="25.5" />
             </edge>
-            <edge source="com.mycompany.strategyexperiment.dao.experiment.excluir.ExcluirPauta" target="com.mycompany.strategyexperiment.dao.experiment.excluir.Excluir">
-              <point x="0.0" y="-25.5" />
-              <point x="429.5" y="1789.0" />
-              <point x="308.83333333333337" y="1789.0" />
-              <point x="50.33333333333337" y="25.5" />
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarExcluirDAO" target="com.mycompany.strategyexperiment.dao.experiment.BuscarSalvarExcluirDAOEnum">
+              <point x="-44.08333333333303" y="-25.5" />
+              <point x="577.291666666667" y="2711.0" />
+              <point x="522.625" y="2711.0" />
+              <point x="0.0" y="25.5" />
             </edge>
             <edge source="com.mycompany.strategyexperiment.model.Comentario.SituacaoComentario" target="com.mycompany.strategyexperiment.model.Comentario">
-              <point x="0.0" y="-93.0" />
-              <point x="0.0" y="103.0" />
+              <point x="0.0" y="93.0" />
+              <point x="8948.471032608695" y="712.0" />
+              <point x="8794.971865942029" y="712.0" />
+              <point x="41.399999999999636" y="-103.0" />
             </edge>
-            <edge source="com.mycompany.strategyexperiment.model.Orgao" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
-              <point x="0.0" y="-136.5" />
-              <point x="952.0000000000001" y="89.0" />
-              <point x="1255.75" y="89.0" />
-              <point x="-15.25" y="14.5" />
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.AtaParticipanteFullDAO" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
+              <point x="140.39999999999964" y="-25.5" />
+              <point x="1204.9562499999993" y="1918.0" />
+              <point x="3453.2288198660203" y="1918.0" />
+              <point x="3453.2288198660203" y="722.0" />
+              <point x="3703.5975698660195" y="722.0" />
+              <point x="-61.600000000000364" y="25.5" />
             </edge>
-            <edge source="com.mycompany.strategyexperiment.dao.experiment.CampusSalvarBuscarDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO">
-              <point x="0.0" y="-25.5" />
-              <point x="1254.5" y="1035.0" />
-              <point x="1500.5" y="1035.0" />
-              <point x="-77.0" y="59.0" />
-            </edge>
-            <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarCampus" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
-              <point x="0.0" y="-36.5" />
-              <point x="1077.5" y="1335.0" />
-              <point x="1198.5" y="1335.0" />
-              <point x="-19.25" y="25.5" />
-            </edge>
-            <edge source="com.mycompany.strategyexperiment.dao.experiment.PautaSalvarBuscarExcluirDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarExcluirDAO">
-              <point x="0.0" y="-25.5" />
-              <point x="0.0" y="81.0" />
+            <edge source="com.mycompany.strategyexperiment.dao.control.CampusDAO" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="-96.66666666666697" y="-91.5" />
+              <point x="7134.665199275362" y="1318.0" />
+              <point x="4449.458620590658" y="1318.0" />
+              <point x="49.56521739130403" y="104.0" />
             </edge>
             <edge source="com.mycompany.strategyexperiment.dao.experiment.buscar.BuscarAnexo" target="com.mycompany.strategyexperiment.dao.experiment.buscar.Buscar">
-              <point x="0.0" y="-36.5" />
-              <point x="1936.0" y="1315.0" />
-              <point x="1314.0" y="1315.0" />
-              <point x="96.25" y="25.5" />
+              <point x="-48.0" y="-36.5" />
+              <point x="4433.691032608695" y="1618.0" />
+              <point x="3669.99756986602" y="1618.0" />
+              <point x="3669.99756986602" y="772.0" />
+              <point x="3780.5975698660195" y="772.0" />
+              <point x="15.399999999999636" y="25.5" />
             </edge>
-            <edge source="com.mycompany.strategyexperiment.model.OrgaoMembro" target="com.mycompany.strategyexperiment.model.IEntidadeDAO">
-              <point x="0.0" y="-59.0" />
-              <point x="1161.5" y="99.0" />
-              <point x="1265.916666666667" y="99.0" />
-              <point x="-5.0833333333332575" y="14.5" />
+            <edge source="com.mycompany.strategyexperiment.dao.control.ComentarioDAO" target="com.mycompany.strategyexperiment.model.Comentario.SituacaoComentario">
+              <point x="101.25" y="-69.5" />
+              <point x="8937.621865942026" y="2118.0" />
+              <point x="9035.121032608695" y="2118.0" />
+              <point x="9035.121032608695" y="712.0" />
+              <point x="9045.671032608694" y="712.0" />
+              <point x="97.19999999999982" y="93.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.control.ComentarioDAO" target="com.mycompany.strategyexperiment.model.Comentario">
+              <point x="33.75" y="-69.5" />
+              <point x="8870.121865942026" y="2098.0" />
+              <point x="8863.971865942029" y="2098.0" />
+              <point x="110.39999999999964" y="103.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="1025.0" y="1020.0" />
+          <settings layout="Hierarchic Group" zoom="0.1" x="4233.0" y="1164.0" />
+          <SelectedNodes>
+            <node>com.mycompany.strategyexperiment.model.Campus</node>
+            <node>com.mycompany.strategyexperiment.model.Departamento</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.mycompany.strategyexperiment.dao.control">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.mycompany.strategyexperiment.dao.control</OriginalElement>
+          <nodes>
+            <node x="930.0" y="301.0">com.mycompany.strategyexperiment.dao.control.PautaDAO</node>
+            <node x="1477.0" y="279.0">com.mycompany.strategyexperiment.dao.control.CampusDAO</node>
+            <node x="779.75" y="0.0">com.mycompany.strategyexperiment.dao.control.ConnectionDAO</node>
+            <node x="308.0" y="301.0">com.mycompany.strategyexperiment.dao.control.AnexoDAO</node>
+            <node x="568.0" y="268.0">com.mycompany.strategyexperiment.dao.control.DepartamentoDAO</node>
+            <node x="1187.0" y="301.0">com.mycompany.strategyexperiment.dao.control.ComentarioDAO</node>
+            <node x="0.0" y="301.0">com.mycompany.strategyexperiment.dao.control.AtaParticipanteDAO</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.mycompany.strategyexperiment.dao.control.DepartamentoDAO" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="0.0" y="-102.5" />
+              <point x="739.0" y="248.0" />
+              <point x="874.75" y="248.0" />
+              <point x="-19.0" y="104.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.control.AnexoDAO" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="0.0" y="-69.5" />
+              <point x="428.0" y="238.0" />
+              <point x="836.75" y="238.0" />
+              <point x="-57.0" y="104.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.control.ComentarioDAO" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="0.0" y="-69.5" />
+              <point x="1322.0" y="238.0" />
+              <point x="950.75" y="238.0" />
+              <point x="57.0" y="104.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.control.AtaParticipanteDAO" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="0.0" y="-69.5" />
+              <point x="144.0" y="228.0" />
+              <point x="798.75" y="228.0" />
+              <point x="-95.0" y="104.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.control.PautaDAO" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="0.0" y="-69.5" />
+              <point x="1048.5" y="248.0" />
+              <point x="912.75" y="248.0" />
+              <point x="19.0" y="104.0" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.control.CampusDAO" target="com.mycompany.strategyexperiment.dao.control.ConnectionDAO">
+              <point x="0.0" y="-91.5" />
+              <point x="1622.0" y="228.0" />
+              <point x="988.75" y="228.0" />
+              <point x="95.0" y="104.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="821.0" y="169.0" />
           <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
@@ -867,27 +1805,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/strategyexperiment/dao/experiment/FactoryBuscarSalvarExcluirDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/strategyexperiment/dao/experiment/AbstractFullDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strategyexperiment.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+    <entry file="uml://JAVA/com.mycompany.strategyexperiment.dao.experiment">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.mycompany.strategyexperiment.dao.experiment</OriginalElement>
+          <nodes>
+            <node x="222.0" y="79.0">com.mycompany.strategyexperiment.dao.experiment.CampusSalvarBuscarDAO</node>
+            <node x="222.0" y="0.0">com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO</node>
+            <node x="370.0" y="232.0">com.mycompany.strategyexperiment.dao.experiment.PautaSalvarBuscarExcluirDAO</node>
+            <node x="425.0" y="79.0">com.mycompany.strategyexperiment.dao.experiment.DepartamentoSalvarBuscarDAO</node>
+            <node x="103.0" y="153.0">com.mycompany.strategyexperiment.dao.experiment.AbstractFullDAO</node>
+            <node x="323.0" y="454.0">com.mycompany.strategyexperiment.dao.experiment.excluir</node>
+            <node x="0.0" y="380.0">com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarDAO</node>
+            <node x="0.0" y="454.0">com.mycompany.strategyexperiment.dao.experiment.FullDaoEnum</node>
+            <node x="223.0" y="380.0">com.mycompany.strategyexperiment.dao.experiment.BuscarSalvarDAOEnum</node>
+            <node x="481.0" y="454.0">com.mycompany.strategyexperiment.dao.experiment.salvar</node>
+            <node x="438.0" y="380.0">com.mycompany.strategyexperiment.dao.experiment.FactoryFullDao</node>
+            <node x="164.0" y="454.0">com.mycompany.strategyexperiment.dao.experiment.buscar</node>
+            <node x="0.0" y="528.0">com.mycompany.strategyexperiment.dao.experiment.listar</node>
+            <node x="257.0" y="306.0">com.mycompany.strategyexperiment.dao.experiment.BuscarSalvarExcluirDAOEnum</node>
+            <node x="193.0" y="232.0">com.mycompany.strategyexperiment.dao.experiment.AnexoFullDAO</node>
+            <node x="0.0" y="306.0">com.mycompany.strategyexperiment.dao.experiment.FactoryBuscarSalvarExcluirDAO</node>
+            <node x="363.0" y="153.0">com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarExcluirDAO</node>
+            <node x="0.0" y="79.0">com.mycompany.strategyexperiment.dao.experiment.ComentarioSalvarBuscarDAO</node>
+            <node x="0.0" y="232.0">com.mycompany.strategyexperiment.dao.experiment.AtaParticipanteFullDAO</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.CampusSalvarBuscarDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.AnexoFullDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractFullDAO">
+              <point x="0.0" y="-14.5" />
+              <point x="255.5" y="207.0" />
+              <point x="205.0" y="207.0" />
+              <point x="34.0" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.DepartamentoSalvarBuscarDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO">
+              <point x="0.0" y="-14.5" />
+              <point x="532.5" y="54.0" />
+              <point x="374.5" y="54.0" />
+              <point x="61.0" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.PautaSalvarBuscarExcluirDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarExcluirDAO">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.ComentarioSalvarBuscarDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractSalvarBuscarDAO">
+              <point x="0.0" y="-14.5" />
+              <point x="101.0" y="54.0" />
+              <point x="252.5" y="54.0" />
+              <point x="-61.0" y="14.5" />
+            </edge>
+            <edge source="com.mycompany.strategyexperiment.dao.experiment.AtaParticipanteFullDAO" target="com.mycompany.strategyexperiment.dao.experiment.AbstractFullDAO">
+              <point x="0.0" y="-14.5" />
+              <point x="86.5" y="207.0" />
+              <point x="137.0" y="207.0" />
+              <point x="-34.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="320.0" y="278.5" />
+          <SelectedNodes>
+            <node>com.mycompany.strategyexperiment.dao.experiment.ComentarioSalvarBuscarDAO</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
